@@ -1,0 +1,1416 @@
+2021-11-15T21:07:32.113+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:07:32.142+0530 INFO called retrieveAllRegistration function
+2021-11-15T21:07:32.151+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Ended
+2021-11-15T21:07:32.184+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Started
+2021-11-15T21:07:32.214+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:07:32.270+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:07:32.271+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Ended
+2021-11-15T21:07:32.350+0530 DEBUG Update Application Type starts
+2021-11-15T21:07:32.352+0530 DEBUG Update Application Type ends
+2021-11-15T21:07:32.369+0530 DEBUG Add ApplicationTypes starts
+2021-11-15T21:07:32.369+0530 DEBUG Add ApplicationTypes ends
+2021-11-15T21:07:32.535+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:07:32.536+0530 INFO FinalReportAPI_started retrieveSiteDetails function UserName: LVsystem@gmail.com
+2021-11-15T21:07:32.536+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:07:32.542+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:07:32.543+0530 INFO FinalReportAPI_started retrieveFinalReport function userName: LVsystem@gmail.com,siteId : 1
+2021-11-15T21:07:32.544+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:07:32.644+0530 INFO called updateInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1,PeriodicInspectionId : null
+2021-11-15T21:07:32.655+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.658+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.666+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.674+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.683+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.691+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:07:32.731+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.732+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.738+0530 INFO called addInstallationReport function UserName : Inspector@gmail.com, SiteId
+2021-11-15T21:07:32.744+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:32.751+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:07:32.758+0530 INFO called retrieveInstallationReport function UserName: Inspector@gmail.com, SiteId : 1
+2021-11-15T21:07:32.766+0530 INFO called updateInstallationReport function UserName : Inspector@gmail.com,SiteId : 1,ReportId : 12
+2021-11-15T21:07:32.927+0530 DEBUG retrieveInformation_function started
+2021-11-15T21:07:32.935+0530 DEBUG forgotPassword started
+2021-11-15T21:07:32.943+0530 DEBUG Change Password Starts
+2021-11-15T21:07:32.943+0530 DEBUG Change Password Ends
+2021-11-15T21:07:32.952+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:07:32.954+0530 DEBUG Create Authenticate Token ends
+2021-11-15T21:07:32.955+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:07:32.967+0530 DEBUG Update Password starts
+2021-11-15T21:07:32.967+0530 DEBUG Update Password ends
+2021-11-15T21:07:32.976+0530 DEBUG CreatePassword starts
+2021-11-15T21:07:32.977+0530 DEBUG CreatePassword ends
+2021-11-15T21:07:33.046+0530 INFO testRetrievePeriodicTesting Function Started
+2021-11-15T21:07:33.047+0530 INFO Started retrievePeriodicTesting function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:07:33.047+0530 INFO ended retrievePeriodicTesting function
+2021-11-15T21:07:33.047+0530 INFO testRetrievePeriodicTesting Function Ended
+2021-11-15T21:07:33.053+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.054+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.061+0530 INFO testUpdatePeriodicTesting Function Started
+2021-11-15T21:07:33.061+0530 INFO called updatePeriodicTesting function UserName : Inspector@gmail.com,SiteId : 1,TestingReportId : null
+2021-11-15T21:07:33.062+0530 INFO testUpdatePeriodicTesting Function Ended
+2021-11-15T21:07:33.069+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.074+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:07:33.080+0530 INFO testSavePeriodicTesting Function Started
+2021-11-15T21:07:33.081+0530 INFO started savePeriodicTesting function userName: Inspector@gmail.com,siteId : 1
+2021-11-15T21:07:33.081+0530 INFO ended savePeriodicTesting function
+2021-11-15T21:07:33.081+0530 INFO testSavePeriodicTesting Function Ended
+2021-11-15T21:07:33.098+0530 INFO RegistrationControllerTest testResendOtp_funcion Started
+2021-11-15T21:07:33.099+0530 DEBUG called sendOtp function UserName : lvsystem@capeindia.net, MobileNumber : +91-9878789788
+2021-11-15T21:07:33.099+0530 INFO RegistrationControllerTest testResendOtp_funcion Ended
+2021-11-15T21:07:33.107+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Started
+2021-11-15T21:07:33.107+0530 INFO called retrieveRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:07:33.107+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Ended
+2021-11-15T21:07:33.116+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Started
+2021-11-15T21:07:33.118+0530 DEBUG called updateRegistration function UserName : lvsystem@capeindia.net, IsLicenseUpdate : true
+2021-11-15T21:07:33.118+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Ended
+2021-11-15T21:07:33.125+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Started
+2021-11-15T21:07:33.126+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:07:33.127+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Ended
+2021-11-15T21:07:33.134+0530 INFO RegistrationControllerTest testAddRegistration_funcion Started
+2021-11-15T21:07:33.135+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:07:33.135+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:07:33.136+0530 INFO RegistrationControllerTest testAddRegistration_funcion Ended
+2021-11-15T21:07:33.143+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Started
+2021-11-15T21:07:33.143+0530 DEBUG called updateLicence function UserName : lvsystem@capeindia.net
+2021-11-15T21:07:33.143+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Ended
+2021-11-15T21:07:33.227+0530 INFO called retriveSiteByName function Company Name: null, Department: null, Site Name: null
+2021-11-15T21:07:33.234+0530 INFO called deleteSite function siteId: 1
+2021-11-15T21:07:33.239+0530 INFO called updateSite function UserName: hasan,Site : user
+2021-11-15T21:07:33.245+0530 INFO called retriveSite function UserName: hasan
+2021-11-15T21:07:33.252+0530 INFO called addSite function UserName : user, Site : {}
+2021-11-15T21:07:33.329+0530 INFO testUpdateSummary Function Started
+2021-11-15T21:07:33.329+0530 INFO called updateSummary function UserName : LVsystem@gmail.com,SiteId : 12,SummaryId : null
+2021-11-15T21:07:33.330+0530 INFO testUpdateSummary Function Ended
+2021-11-15T21:07:33.338+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.339+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.349+0530 INFO testAddSummary Function Started
+2021-11-15T21:07:33.350+0530 INFO started addSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:07:33.351+0530 INFO ended addSummary function
+2021-11-15T21:07:33.351+0530 INFO testAddSummary Function Ended
+2021-11-15T21:07:33.358+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.368+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:07:33.375+0530 INFO testRetrieveSummary Function Started
+2021-11-15T21:07:33.377+0530 INFO called retrieveSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:07:33.378+0530 INFO testRetrieveSummary Function Ended
+2021-11-15T21:07:33.448+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.450+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.457+0530 INFO called updateCharacteristics function UserName : cape,SiteId : 1,SupplyCharacteristicsId : 1
+2021-11-15T21:07:33.464+0530 INFO called addCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:07:33.471+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:07:33.478+0530 INFO called sendcomments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:07:33.485+0530 INFO started retrieveCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:07:34.141+0530 INFO Starting LvSafetyVerificationApplicationTests using Java 1.8.0_271 on DESKTOP-PUJTA74 with PID 25728 (started by capeelectricsoftware in C:\Users\gopa0\sathish\backend\latest\lv-inspection-safety-backend)
+2021-11-15T21:07:34.142+0530 DEBUG Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-15T21:07:34.142+0530 INFO The following profiles are active: dev
+2021-11-15T21:07:46.541+0530 INFO Started LvSafetyVerificationApplicationTests in 12.637 seconds (JVM running for 17.853)
+2021-11-15T21:07:47.470+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:07:47.472+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:07:47.473+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:07:47.473+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:07:47.474+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:07:47.474+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:07:47.475+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:07:47.475+0530 DEBUG fetching process started for PriodicTesting
+2021-11-15T21:07:47.476+0530 DEBUG PriodicTesting_fetching ended
+2021-11-15T21:07:47.476+0530 DEBUG fetching process started for Summary
+2021-11-15T21:07:47.477+0530 DEBUG Summary_fetching ended
+2021-11-15T21:07:47.477+0530 DEBUG Successfully Five_Steps fetching Operation done
+2021-11-15T21:07:47.479+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:07:47.488+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:07:47.491+0530 INFO Site fetching process started
+2021-11-15T21:07:47.495+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:07:47.508+0530 INFO testRetriveFinalReport_NotHaveingAllStepData method started
+2021-11-15T21:07:47.509+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:07:47.509+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:07:47.509+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:07:47.510+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:07:47.510+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:07:47.511+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:07:48.609+0530 DEBUG Change Password Starts
+2021-11-15T21:07:48.610+0530 DEBUG Update User Ends
+2021-11-15T21:07:48.613+0530 DEBUG Change Password Starts
+2021-11-15T21:07:48.614+0530 DEBUG Change Password Ends
+2021-11-15T21:07:48.616+0530 DEBUG Change Password Starts
+2021-11-15T21:07:48.617+0530 DEBUG Change Password Ends
+2021-11-15T21:07:48.636+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:07:48.637+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:07:48.639+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:07:48.640+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:07:48.641+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:07:48.641+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:07:48.659+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:48.660+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:48.666+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:48.666+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:48.668+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:48.668+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:48.704+0530 DEBUG createPassword Starts
+2021-11-15T21:07:48.706+0530 DEBUG Successfully Otp Verified
+2021-11-15T21:07:48.707+0530 DEBUG createPassword Ends
+2021-11-15T21:07:48.708+0530 DEBUG createPassword Starts
+2021-11-15T21:07:48.710+0530 DEBUG createPassword Starts
+2021-11-15T21:07:48.711+0530 DEBUG createPassword Ends
+2021-11-15T21:07:48.712+0530 DEBUG createPassword Starts
+2021-11-15T21:07:48.713+0530 DEBUG createPassword Ends
+2021-11-15T21:07:48.752+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:07:48.753+0530 INFO Invalid Input flow
+2021-11-15T21:07:48.767+0530 INFO SiteId already Present_flow
+2021-11-15T21:07:48.768+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:07:48.769+0530 INFO Invalid Present_flow
+2021-11-15T21:07:48.825+0530 INFO 'NA'value checking processes started
+2021-11-15T21:07:48.825+0530 INFO Demcimal_Conversion success case
+2021-11-15T21:07:48.829+0530 INFO started DecimalConversion process
+2021-11-15T21:07:48.830+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:48.830+0530 INFO started DecimalConversion process
+2021-11-15T21:07:48.830+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:48.830+0530 INFO started DecimalConversion process
+2021-11-15T21:07:48.831+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:48.832+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:07:48.833+0530 INFO Demcimal_Conversion faild case
+2021-11-15T21:07:48.835+0530 INFO failed DecimalConversion process
+2021-11-15T21:07:48.835+0530 INFO 'NA'value checking processes started
+2021-11-15T21:07:48.910+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:07:48.912+0530 DEBUG Started retrieveAllRegistration
+2021-11-15T21:07:48.912+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:07:48.925+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:07:48.926+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:07:48.927+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:07:48.929+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:07:48.930+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:07:48.931+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:07:48.932+0530 DEBUG Given UserName Already Present
+2021-11-15T21:07:48.932+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:07:48.932+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:07:48.932+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:07:48.946+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion Started
+2021-11-15T21:07:48.948+0530 DEBUG RetrieveRegistration Started with User : lvsystem@capeindia.net 
+2021-11-15T21:07:48.951+0530 DEBUG RetrieveRegistration Started with User : lvsystem1@capeindia.net 
+2021-11-15T21:07:48.954+0530 DEBUG RetrieveRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:07:48.954+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion End
+2021-11-15T21:07:48.968+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:07:48.969+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:07:48.970+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:07:48.971+0530 DEBUG UpdatingRegistration is Failed , Because Given User not present
+2021-11-15T21:07:48.973+0530 DEBUG UpdatingRegistration is Failed , Because Invalid Inputs
+2021-11-15T21:07:48.973+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:07:48.989+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:07:48.990+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:07:48.991+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:07:48.991+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:07:48.992+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:07:48.993+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:07:48.993+0530 DEBUG Given UserName Already Present
+2021-11-15T21:07:48.994+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:07:48.995+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:07:48.995+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:07:49.008+0530 INFO RegistrationServiceTest testUpdateLicence_funcion Started
+2021-11-15T21:07:49.011+0530 INFO RegistrationServiceTest testUpdateLicence_funcion End
+2021-11-15T21:07:49.025+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:07:49.026+0530 DEBUG updatePermission_function called
+2021-11-15T21:07:49.027+0530 DEBUG Admin accepted Registration Permission
+2021-11-15T21:07:49.027+0530 DEBUG updatePermission_function called
+2021-11-15T21:07:49.027+0530 DEBUG Admin Not-acepted Registration Permission
+2021-11-15T21:07:49.028+0530 DEBUG updatePermission_function called
+2021-11-15T21:07:49.029+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:07:49.029+0530 DEBUG updatePermission_function called
+2021-11-15T21:07:49.030+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:07:49.030+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:07:49.041+0530 INFO RegistrationServiceTest testSendOtp_funcion Started
+2021-11-15T21:07:49.053+0530 INFO RegistrationServiceTest testSendOtp_funcion End
+2021-11-15T21:07:49.459+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:07:49.460+0530 INFO Invalid Input flow
+2021-11-15T21:07:49.600+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:07:49.600+0530 INFO started DecimalConversion process
+2021-11-15T21:07:49.604+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:49.665+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:07:49.665+0530 INFO started DecimalConversion process
+2021-11-15T21:07:49.666+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:49.892+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:07:49.893+0530 INFO started DecimalConversion process
+2021-11-15T21:07:49.894+0530 INFO ended DecimalConversion process
+2021-11-15T21:07:50.020+0530 DEBUG Save User Starts
+2021-11-15T21:07:50.020+0530 DEBUG Save User Ends
+2021-11-15T21:07:50.021+0530 DEBUG Save User Starts
+2021-11-15T21:07:50.021+0530 DEBUG Save User Ends
+2021-11-15T21:07:50.029+0530 DEBUG Retrieve User Starts
+2021-11-15T21:07:50.030+0530 DEBUG Retrieve User Starts
+2021-11-15T21:07:50.197+0530 DEBUG Change Password Starts
+2021-11-15T21:07:50.199+0530 DEBUG Update User Ends
+2021-11-15T21:07:50.201+0530 DEBUG Change Password Starts
+2021-11-15T21:07:50.201+0530 DEBUG Change Password Ends
+2021-11-15T21:07:50.202+0530 DEBUG Change Password Starts
+2021-11-15T21:07:50.202+0530 DEBUG Change Password Ends
+2021-11-15T21:07:50.202+0530 DEBUG Change Password Starts
+2021-11-15T21:07:50.211+0530 DEBUG Update User Starts
+2021-11-15T21:07:50.211+0530 DEBUG Update User Ends
+2021-11-15T21:07:50.211+0530 DEBUG Update User Starts
+2021-11-15T21:07:50.211+0530 DEBUG Update User Ends
+2021-11-15T21:07:50.212+0530 DEBUG Update User Starts
+2021-11-15T21:07:50.212+0530 DEBUG Update User Ends
+2021-11-15T21:07:50.223+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:50.223+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:50.224+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:50.224+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:50.225+0530 DEBUG Find By User Name Starts
+2021-11-15T21:07:50.225+0530 DEBUG Find By User Name Ends
+2021-11-15T21:07:50.233+0530 DEBUG Update User Profile Starts
+2021-11-15T21:07:50.233+0530 DEBUG Update User Profile Starts
+2021-11-15T21:08:47.456+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:08:47.493+0530 INFO called retrieveAllRegistration function
+2021-11-15T21:08:47.502+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Ended
+2021-11-15T21:08:47.530+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Started
+2021-11-15T21:08:47.570+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:08:47.612+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:08:47.613+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Ended
+2021-11-15T21:08:47.717+0530 DEBUG Update Application Type starts
+2021-11-15T21:08:47.720+0530 DEBUG Update Application Type ends
+2021-11-15T21:08:47.744+0530 DEBUG Add ApplicationTypes starts
+2021-11-15T21:08:47.746+0530 DEBUG Add ApplicationTypes ends
+2021-11-15T21:08:47.936+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:08:47.937+0530 INFO FinalReportAPI_started retrieveSiteDetails function UserName: LVsystem@gmail.com
+2021-11-15T21:08:47.937+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:08:47.942+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:08:47.943+0530 INFO FinalReportAPI_started retrieveFinalReport function userName: LVsystem@gmail.com,siteId : 1
+2021-11-15T21:08:47.944+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:08:48.026+0530 INFO called updateInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1,PeriodicInspectionId : null
+2021-11-15T21:08:48.035+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.037+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.042+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.052+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.060+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.070+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:08:48.118+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.119+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.126+0530 INFO called addInstallationReport function UserName : Inspector@gmail.com, SiteId
+2021-11-15T21:08:48.133+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.140+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:08:48.146+0530 INFO called retrieveInstallationReport function UserName: Inspector@gmail.com, SiteId : 1
+2021-11-15T21:08:48.152+0530 INFO called updateInstallationReport function UserName : Inspector@gmail.com,SiteId : 1,ReportId : 12
+2021-11-15T21:08:48.342+0530 DEBUG retrieveInformation_function started
+2021-11-15T21:08:48.352+0530 DEBUG forgotPassword started
+2021-11-15T21:08:48.361+0530 DEBUG Change Password Starts
+2021-11-15T21:08:48.361+0530 DEBUG Change Password Ends
+2021-11-15T21:08:48.370+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:08:48.373+0530 DEBUG Create Authenticate Token ends
+2021-11-15T21:08:48.375+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:08:48.386+0530 DEBUG Update Password starts
+2021-11-15T21:08:48.386+0530 DEBUG Update Password ends
+2021-11-15T21:08:48.392+0530 DEBUG CreatePassword starts
+2021-11-15T21:08:48.393+0530 DEBUG CreatePassword ends
+2021-11-15T21:08:48.467+0530 INFO testRetrievePeriodicTesting Function Started
+2021-11-15T21:08:48.467+0530 INFO Started retrievePeriodicTesting function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:08:48.467+0530 INFO ended retrievePeriodicTesting function
+2021-11-15T21:08:48.468+0530 INFO testRetrievePeriodicTesting Function Ended
+2021-11-15T21:08:48.473+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.474+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.480+0530 INFO testUpdatePeriodicTesting Function Started
+2021-11-15T21:08:48.480+0530 INFO called updatePeriodicTesting function UserName : Inspector@gmail.com,SiteId : 1,TestingReportId : null
+2021-11-15T21:08:48.481+0530 INFO testUpdatePeriodicTesting Function Ended
+2021-11-15T21:08:48.487+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.492+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:08:48.498+0530 INFO testSavePeriodicTesting Function Started
+2021-11-15T21:08:48.498+0530 INFO started savePeriodicTesting function userName: Inspector@gmail.com,siteId : 1
+2021-11-15T21:08:48.498+0530 INFO ended savePeriodicTesting function
+2021-11-15T21:08:48.498+0530 INFO testSavePeriodicTesting Function Ended
+2021-11-15T21:08:48.514+0530 INFO RegistrationControllerTest testResendOtp_funcion Started
+2021-11-15T21:08:48.516+0530 DEBUG called sendOtp function UserName : lvsystem@capeindia.net, MobileNumber : +91-9878789788
+2021-11-15T21:08:48.517+0530 INFO RegistrationControllerTest testResendOtp_funcion Ended
+2021-11-15T21:08:48.523+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Started
+2021-11-15T21:08:48.524+0530 INFO called retrieveRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:08:48.524+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Ended
+2021-11-15T21:08:48.532+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Started
+2021-11-15T21:08:48.533+0530 DEBUG called updateRegistration function UserName : lvsystem@capeindia.net, IsLicenseUpdate : true
+2021-11-15T21:08:48.534+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Ended
+2021-11-15T21:08:48.541+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Started
+2021-11-15T21:08:48.541+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:08:48.543+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Ended
+2021-11-15T21:08:48.554+0530 INFO RegistrationControllerTest testAddRegistration_funcion Started
+2021-11-15T21:08:48.555+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:08:48.556+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:08:48.557+0530 INFO RegistrationControllerTest testAddRegistration_funcion Ended
+2021-11-15T21:08:48.565+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Started
+2021-11-15T21:08:48.566+0530 DEBUG called updateLicence function UserName : lvsystem@capeindia.net
+2021-11-15T21:08:48.566+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Ended
+2021-11-15T21:08:48.655+0530 INFO called retriveSiteByName function Company Name: null, Department: null, Site Name: null
+2021-11-15T21:08:48.663+0530 INFO called deleteSite function siteId: 1
+2021-11-15T21:08:48.672+0530 INFO called updateSite function UserName: hasan,Site : user
+2021-11-15T21:08:48.681+0530 INFO called retriveSite function UserName: hasan
+2021-11-15T21:08:48.688+0530 INFO called addSite function UserName : user, Site : {}
+2021-11-15T21:08:48.753+0530 INFO testUpdateSummary Function Started
+2021-11-15T21:08:48.753+0530 INFO called updateSummary function UserName : LVsystem@gmail.com,SiteId : 12,SummaryId : null
+2021-11-15T21:08:48.754+0530 INFO testUpdateSummary Function Ended
+2021-11-15T21:08:48.760+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.762+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.770+0530 INFO testAddSummary Function Started
+2021-11-15T21:08:48.771+0530 INFO started addSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:08:48.771+0530 INFO ended addSummary function
+2021-11-15T21:08:48.771+0530 INFO testAddSummary Function Ended
+2021-11-15T21:08:48.778+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.787+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:08:48.794+0530 INFO testRetrieveSummary Function Started
+2021-11-15T21:08:48.795+0530 INFO called retrieveSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:08:48.795+0530 INFO testRetrieveSummary Function Ended
+2021-11-15T21:08:48.867+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.868+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.877+0530 INFO called updateCharacteristics function UserName : cape,SiteId : 1,SupplyCharacteristicsId : 1
+2021-11-15T21:08:48.886+0530 INFO called addCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:08:48.893+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:08:48.901+0530 INFO called sendcomments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:08:48.905+0530 INFO started retrieveCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:08:49.409+0530 INFO Starting LvSafetyVerificationApplicationTests using Java 1.8.0_271 on DESKTOP-PUJTA74 with PID 15980 (started by capeelectricsoftware in C:\Users\gopa0\sathish\backend\latest\lv-inspection-safety-backend)
+2021-11-15T21:08:49.410+0530 DEBUG Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-15T21:08:49.410+0530 INFO The following profiles are active: dev
+2021-11-15T21:08:58.713+0530 INFO Started LvSafetyVerificationApplicationTests in 9.539 seconds (JVM running for 14.641)
+2021-11-15T21:08:58.926+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:08:58.927+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:08:58.927+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:08:58.928+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:08:58.928+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:08:58.928+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:08:58.928+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:08:58.928+0530 DEBUG fetching process started for PriodicTesting
+2021-11-15T21:08:58.929+0530 DEBUG PriodicTesting_fetching ended
+2021-11-15T21:08:58.929+0530 DEBUG fetching process started for Summary
+2021-11-15T21:08:58.929+0530 DEBUG Summary_fetching ended
+2021-11-15T21:08:58.929+0530 DEBUG Successfully Five_Steps fetching Operation done
+2021-11-15T21:08:58.929+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:08:58.935+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:08:58.936+0530 INFO Site fetching process started
+2021-11-15T21:08:58.937+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:08:58.943+0530 INFO testRetriveFinalReport_NotHaveingAllStepData method started
+2021-11-15T21:08:58.944+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:08:58.944+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:08:58.944+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:08:58.945+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:08:58.945+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:08:58.945+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:08:59.361+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.362+0530 DEBUG Update User Ends
+2021-11-15T21:08:59.363+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.364+0530 DEBUG Change Password Ends
+2021-11-15T21:08:59.365+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.365+0530 DEBUG Change Password Ends
+2021-11-15T21:08:59.371+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:08:59.372+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:08:59.373+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:08:59.374+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:08:59.374+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:08:59.374+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:08:59.380+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.380+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.381+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.381+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.384+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.384+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.396+0530 DEBUG createPassword Starts
+2021-11-15T21:08:59.397+0530 DEBUG Successfully Otp Verified
+2021-11-15T21:08:59.398+0530 DEBUG createPassword Ends
+2021-11-15T21:08:59.399+0530 DEBUG createPassword Starts
+2021-11-15T21:08:59.400+0530 DEBUG createPassword Starts
+2021-11-15T21:08:59.400+0530 DEBUG createPassword Ends
+2021-11-15T21:08:59.400+0530 DEBUG createPassword Starts
+2021-11-15T21:08:59.401+0530 DEBUG createPassword Ends
+2021-11-15T21:08:59.419+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:08:59.420+0530 INFO Invalid Input flow
+2021-11-15T21:08:59.427+0530 INFO SiteId already Present_flow
+2021-11-15T21:08:59.428+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:08:59.429+0530 INFO Invalid Present_flow
+2021-11-15T21:08:59.454+0530 INFO 'NA'value checking processes started
+2021-11-15T21:08:59.454+0530 INFO Demcimal_Conversion success case
+2021-11-15T21:08:59.455+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.457+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.457+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.457+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.458+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.458+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.458+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:08:59.459+0530 INFO Demcimal_Conversion faild case
+2021-11-15T21:08:59.460+0530 INFO failed DecimalConversion process
+2021-11-15T21:08:59.461+0530 INFO 'NA'value checking processes started
+2021-11-15T21:08:59.492+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:08:59.492+0530 DEBUG Started retrieveAllRegistration
+2021-11-15T21:08:59.492+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:08:59.497+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:08:59.497+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:08:59.498+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:08:59.499+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:08:59.499+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:08:59.500+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:08:59.500+0530 DEBUG Given UserName Already Present
+2021-11-15T21:08:59.501+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:08:59.501+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:08:59.501+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:08:59.507+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion Started
+2021-11-15T21:08:59.507+0530 DEBUG RetrieveRegistration Started with User : lvsystem@capeindia.net 
+2021-11-15T21:08:59.508+0530 DEBUG RetrieveRegistration Started with User : lvsystem1@capeindia.net 
+2021-11-15T21:08:59.508+0530 DEBUG RetrieveRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:08:59.508+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion End
+2021-11-15T21:08:59.514+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:08:59.515+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:08:59.515+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:08:59.516+0530 DEBUG UpdatingRegistration is Failed , Because Given User not present
+2021-11-15T21:08:59.516+0530 DEBUG UpdatingRegistration is Failed , Because Invalid Inputs
+2021-11-15T21:08:59.516+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:08:59.521+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:08:59.521+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:08:59.522+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:08:59.522+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:08:59.522+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:08:59.522+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:08:59.523+0530 DEBUG Given UserName Already Present
+2021-11-15T21:08:59.523+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:08:59.523+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:08:59.523+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:08:59.529+0530 INFO RegistrationServiceTest testUpdateLicence_funcion Started
+2021-11-15T21:08:59.530+0530 INFO RegistrationServiceTest testUpdateLicence_funcion End
+2021-11-15T21:08:59.534+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:08:59.534+0530 DEBUG updatePermission_function called
+2021-11-15T21:08:59.534+0530 DEBUG Admin accepted Registration Permission
+2021-11-15T21:08:59.534+0530 DEBUG updatePermission_function called
+2021-11-15T21:08:59.534+0530 DEBUG Admin Not-acepted Registration Permission
+2021-11-15T21:08:59.535+0530 DEBUG updatePermission_function called
+2021-11-15T21:08:59.535+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:08:59.536+0530 DEBUG updatePermission_function called
+2021-11-15T21:08:59.536+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:08:59.537+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:08:59.541+0530 INFO RegistrationServiceTest testSendOtp_funcion Started
+2021-11-15T21:08:59.544+0530 INFO RegistrationServiceTest testSendOtp_funcion End
+2021-11-15T21:08:59.636+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:08:59.637+0530 INFO Invalid Input flow
+2021-11-15T21:08:59.657+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:08:59.657+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.657+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.685+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:08:59.686+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.686+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.723+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:08:59.724+0530 INFO started DecimalConversion process
+2021-11-15T21:08:59.725+0530 INFO ended DecimalConversion process
+2021-11-15T21:08:59.769+0530 DEBUG Save User Starts
+2021-11-15T21:08:59.770+0530 DEBUG Save User Ends
+2021-11-15T21:08:59.770+0530 DEBUG Save User Starts
+2021-11-15T21:08:59.770+0530 DEBUG Save User Ends
+2021-11-15T21:08:59.774+0530 DEBUG Retrieve User Starts
+2021-11-15T21:08:59.774+0530 DEBUG Retrieve User Starts
+2021-11-15T21:08:59.855+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.856+0530 DEBUG Update User Ends
+2021-11-15T21:08:59.856+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.856+0530 DEBUG Change Password Ends
+2021-11-15T21:08:59.857+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.857+0530 DEBUG Change Password Ends
+2021-11-15T21:08:59.857+0530 DEBUG Change Password Starts
+2021-11-15T21:08:59.861+0530 DEBUG Update User Starts
+2021-11-15T21:08:59.861+0530 DEBUG Update User Ends
+2021-11-15T21:08:59.861+0530 DEBUG Update User Starts
+2021-11-15T21:08:59.861+0530 DEBUG Update User Ends
+2021-11-15T21:08:59.862+0530 DEBUG Update User Starts
+2021-11-15T21:08:59.862+0530 DEBUG Update User Ends
+2021-11-15T21:08:59.865+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.865+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.865+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.865+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.865+0530 DEBUG Find By User Name Starts
+2021-11-15T21:08:59.866+0530 DEBUG Find By User Name Ends
+2021-11-15T21:08:59.868+0530 DEBUG Update User Profile Starts
+2021-11-15T21:08:59.869+0530 DEBUG Update User Profile Starts
+2021-11-15T21:10:07.939+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:10:07.959+0530 INFO called retrieveAllRegistration function
+2021-11-15T21:10:07.966+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Ended
+2021-11-15T21:10:07.988+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Started
+2021-11-15T21:10:08.017+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.063+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.064+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Ended
+2021-11-15T21:10:08.140+0530 DEBUG Update Application Type starts
+2021-11-15T21:10:08.141+0530 DEBUG Update Application Type ends
+2021-11-15T21:10:08.156+0530 DEBUG Add ApplicationTypes starts
+2021-11-15T21:10:08.157+0530 DEBUG Add ApplicationTypes ends
+2021-11-15T21:10:08.351+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:10:08.352+0530 INFO FinalReportAPI_started retrieveSiteDetails function UserName: LVsystem@gmail.com
+2021-11-15T21:10:08.352+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:10:08.357+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:10:08.358+0530 INFO FinalReportAPI_started retrieveFinalReport function userName: LVsystem@gmail.com,siteId : 1
+2021-11-15T21:10:08.359+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:10:08.448+0530 INFO called updateInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1,PeriodicInspectionId : null
+2021-11-15T21:10:08.454+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.457+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.464+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.471+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.478+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.484+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:10:08.519+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.520+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.527+0530 INFO called addInstallationReport function UserName : Inspector@gmail.com, SiteId
+2021-11-15T21:10:08.533+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.540+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:10:08.545+0530 INFO called retrieveInstallationReport function UserName: Inspector@gmail.com, SiteId : 1
+2021-11-15T21:10:08.550+0530 INFO called updateInstallationReport function UserName : Inspector@gmail.com,SiteId : 1,ReportId : 12
+2021-11-15T21:10:08.683+0530 DEBUG retrieveInformation_function started
+2021-11-15T21:10:08.689+0530 DEBUG forgotPassword started
+2021-11-15T21:10:08.694+0530 DEBUG Change Password Starts
+2021-11-15T21:10:08.694+0530 DEBUG Change Password Ends
+2021-11-15T21:10:08.700+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:10:08.701+0530 DEBUG Create Authenticate Token ends
+2021-11-15T21:10:08.703+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:10:08.709+0530 DEBUG Update Password starts
+2021-11-15T21:10:08.709+0530 DEBUG Update Password ends
+2021-11-15T21:10:08.714+0530 DEBUG CreatePassword starts
+2021-11-15T21:10:08.714+0530 DEBUG CreatePassword ends
+2021-11-15T21:10:08.768+0530 INFO testRetrievePeriodicTesting Function Started
+2021-11-15T21:10:08.769+0530 INFO Started retrievePeriodicTesting function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:10:08.769+0530 INFO ended retrievePeriodicTesting function
+2021-11-15T21:10:08.769+0530 INFO testRetrievePeriodicTesting Function Ended
+2021-11-15T21:10:08.773+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.773+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.778+0530 INFO testUpdatePeriodicTesting Function Started
+2021-11-15T21:10:08.778+0530 INFO called updatePeriodicTesting function UserName : Inspector@gmail.com,SiteId : 1,TestingReportId : null
+2021-11-15T21:10:08.778+0530 INFO testUpdatePeriodicTesting Function Ended
+2021-11-15T21:10:08.782+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.785+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:10:08.789+0530 INFO testSavePeriodicTesting Function Started
+2021-11-15T21:10:08.789+0530 INFO started savePeriodicTesting function userName: Inspector@gmail.com,siteId : 1
+2021-11-15T21:10:08.790+0530 INFO ended savePeriodicTesting function
+2021-11-15T21:10:08.790+0530 INFO testSavePeriodicTesting Function Ended
+2021-11-15T21:10:08.799+0530 INFO RegistrationControllerTest testResendOtp_funcion Started
+2021-11-15T21:10:08.800+0530 DEBUG called sendOtp function UserName : lvsystem@capeindia.net, MobileNumber : +91-9878789788
+2021-11-15T21:10:08.800+0530 INFO RegistrationControllerTest testResendOtp_funcion Ended
+2021-11-15T21:10:08.805+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Started
+2021-11-15T21:10:08.806+0530 INFO called retrieveRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.807+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Ended
+2021-11-15T21:10:08.811+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Started
+2021-11-15T21:10:08.812+0530 DEBUG called updateRegistration function UserName : lvsystem@capeindia.net, IsLicenseUpdate : true
+2021-11-15T21:10:08.812+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Ended
+2021-11-15T21:10:08.817+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Started
+2021-11-15T21:10:08.817+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.818+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Ended
+2021-11-15T21:10:08.823+0530 INFO RegistrationControllerTest testAddRegistration_funcion Started
+2021-11-15T21:10:08.824+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.825+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.825+0530 INFO RegistrationControllerTest testAddRegistration_funcion Ended
+2021-11-15T21:10:08.831+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Started
+2021-11-15T21:10:08.831+0530 DEBUG called updateLicence function UserName : lvsystem@capeindia.net
+2021-11-15T21:10:08.831+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Ended
+2021-11-15T21:10:08.877+0530 INFO called retriveSiteByName function Company Name: null, Department: null, Site Name: null
+2021-11-15T21:10:08.883+0530 INFO called deleteSite function siteId: 1
+2021-11-15T21:10:08.887+0530 INFO called updateSite function UserName: hasan,Site : user
+2021-11-15T21:10:08.890+0530 INFO called retriveSite function UserName: hasan
+2021-11-15T21:10:08.897+0530 INFO called addSite function UserName : user, Site : {}
+2021-11-15T21:10:08.939+0530 INFO testUpdateSummary Function Started
+2021-11-15T21:10:08.939+0530 INFO called updateSummary function UserName : LVsystem@gmail.com,SiteId : 12,SummaryId : null
+2021-11-15T21:10:08.939+0530 INFO testUpdateSummary Function Ended
+2021-11-15T21:10:08.943+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.944+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.948+0530 INFO testAddSummary Function Started
+2021-11-15T21:10:08.949+0530 INFO started addSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:10:08.949+0530 INFO ended addSummary function
+2021-11-15T21:10:08.949+0530 INFO testAddSummary Function Ended
+2021-11-15T21:10:08.953+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:08.957+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:10:08.961+0530 INFO testRetrieveSummary Function Started
+2021-11-15T21:10:08.962+0530 INFO called retrieveSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:10:08.962+0530 INFO testRetrieveSummary Function Ended
+2021-11-15T21:10:09.000+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:09.001+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:09.006+0530 INFO called updateCharacteristics function UserName : cape,SiteId : 1,SupplyCharacteristicsId : 1
+2021-11-15T21:10:09.011+0530 INFO called addCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:10:09.015+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:10:09.019+0530 INFO called sendcomments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:10:09.023+0530 INFO started retrieveCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:10:09.500+0530 INFO Starting LvSafetyVerificationApplicationTests using Java 1.8.0_271 on DESKTOP-PUJTA74 with PID 26224 (started by capeelectricsoftware in C:\Users\gopa0\sathish\backend\latest\lv-inspection-safety-backend)
+2021-11-15T21:10:09.501+0530 DEBUG Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-15T21:10:09.502+0530 INFO The following profiles are active: dev
+2021-11-15T21:10:18.049+0530 INFO Started LvSafetyVerificationApplicationTests in 8.803 seconds (JVM running for 13.218)
+2021-11-15T21:10:18.223+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:10:18.224+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:10:18.225+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:10:18.225+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:10:18.225+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:10:18.226+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:10:18.226+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:10:18.226+0530 DEBUG fetching process started for PriodicTesting
+2021-11-15T21:10:18.226+0530 DEBUG PriodicTesting_fetching ended
+2021-11-15T21:10:18.226+0530 DEBUG fetching process started for Summary
+2021-11-15T21:10:18.226+0530 DEBUG Summary_fetching ended
+2021-11-15T21:10:18.226+0530 DEBUG Successfully Five_Steps fetching Operation done
+2021-11-15T21:10:18.226+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:10:18.230+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:10:18.231+0530 INFO Site fetching process started
+2021-11-15T21:10:18.233+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:10:18.237+0530 INFO testRetriveFinalReport_NotHaveingAllStepData method started
+2021-11-15T21:10:18.238+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:10:18.238+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:10:18.238+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:10:18.239+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:10:18.239+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:10:18.239+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:10:18.683+0530 DEBUG Change Password Starts
+2021-11-15T21:10:18.684+0530 DEBUG Update User Ends
+2021-11-15T21:10:18.686+0530 DEBUG Change Password Starts
+2021-11-15T21:10:18.686+0530 DEBUG Change Password Ends
+2021-11-15T21:10:18.687+0530 DEBUG Change Password Starts
+2021-11-15T21:10:18.687+0530 DEBUG Change Password Ends
+2021-11-15T21:10:18.694+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:10:18.695+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:10:18.696+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:10:18.696+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:10:18.696+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:10:18.697+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:10:18.704+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:18.705+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:18.705+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:18.705+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:18.706+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:18.706+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:18.715+0530 DEBUG createPassword Starts
+2021-11-15T21:10:18.716+0530 DEBUG Successfully Otp Verified
+2021-11-15T21:10:18.716+0530 DEBUG createPassword Ends
+2021-11-15T21:10:18.717+0530 DEBUG createPassword Starts
+2021-11-15T21:10:18.719+0530 DEBUG createPassword Starts
+2021-11-15T21:10:18.719+0530 DEBUG createPassword Ends
+2021-11-15T21:10:18.719+0530 DEBUG createPassword Starts
+2021-11-15T21:10:18.719+0530 DEBUG createPassword Ends
+2021-11-15T21:10:18.739+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:10:18.740+0530 INFO Invalid Input flow
+2021-11-15T21:10:18.746+0530 INFO SiteId already Present_flow
+2021-11-15T21:10:18.748+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:10:18.749+0530 INFO Invalid Present_flow
+2021-11-15T21:10:18.774+0530 INFO 'NA'value checking processes started
+2021-11-15T21:10:18.775+0530 INFO Demcimal_Conversion success case
+2021-11-15T21:10:18.777+0530 INFO started DecimalConversion process
+2021-11-15T21:10:18.777+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:18.778+0530 INFO started DecimalConversion process
+2021-11-15T21:10:18.778+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:18.778+0530 INFO started DecimalConversion process
+2021-11-15T21:10:18.778+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:18.779+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:10:18.780+0530 INFO Demcimal_Conversion faild case
+2021-11-15T21:10:18.780+0530 INFO failed DecimalConversion process
+2021-11-15T21:10:18.781+0530 INFO 'NA'value checking processes started
+2021-11-15T21:10:18.810+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:10:18.810+0530 DEBUG Started retrieveAllRegistration
+2021-11-15T21:10:18.811+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:10:18.816+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:10:18.816+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:10:18.817+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:10:18.818+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:10:18.818+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:10:18.819+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:10:18.819+0530 DEBUG Given UserName Already Present
+2021-11-15T21:10:18.819+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:10:18.819+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:10:18.819+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:10:18.824+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion Started
+2021-11-15T21:10:18.825+0530 DEBUG RetrieveRegistration Started with User : lvsystem@capeindia.net 
+2021-11-15T21:10:18.825+0530 DEBUG RetrieveRegistration Started with User : lvsystem1@capeindia.net 
+2021-11-15T21:10:18.825+0530 DEBUG RetrieveRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:10:18.825+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion End
+2021-11-15T21:10:18.830+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:10:18.831+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:10:18.831+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:10:18.832+0530 DEBUG UpdatingRegistration is Failed , Because Given User not present
+2021-11-15T21:10:18.832+0530 DEBUG UpdatingRegistration is Failed , Because Invalid Inputs
+2021-11-15T21:10:18.833+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:10:18.838+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:10:18.838+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:10:18.838+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:10:18.839+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:10:18.840+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:10:18.840+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:10:18.840+0530 DEBUG Given UserName Already Present
+2021-11-15T21:10:18.840+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:10:18.840+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:10:18.840+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:10:18.845+0530 INFO RegistrationServiceTest testUpdateLicence_funcion Started
+2021-11-15T21:10:18.847+0530 INFO RegistrationServiceTest testUpdateLicence_funcion End
+2021-11-15T21:10:18.852+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:10:18.853+0530 DEBUG updatePermission_function called
+2021-11-15T21:10:18.853+0530 DEBUG Admin accepted Registration Permission
+2021-11-15T21:10:18.853+0530 DEBUG updatePermission_function called
+2021-11-15T21:10:18.853+0530 DEBUG Admin Not-acepted Registration Permission
+2021-11-15T21:10:18.853+0530 DEBUG updatePermission_function called
+2021-11-15T21:10:18.853+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:10:18.853+0530 DEBUG updatePermission_function called
+2021-11-15T21:10:18.853+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:10:18.854+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:10:18.858+0530 INFO RegistrationServiceTest testSendOtp_funcion Started
+2021-11-15T21:10:18.861+0530 INFO RegistrationServiceTest testSendOtp_funcion End
+2021-11-15T21:10:18.960+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:10:18.961+0530 INFO Invalid Input flow
+2021-11-15T21:10:18.978+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:10:18.978+0530 INFO started DecimalConversion process
+2021-11-15T21:10:18.978+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:18.998+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:10:18.998+0530 INFO started DecimalConversion process
+2021-11-15T21:10:18.999+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:19.035+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:10:19.035+0530 INFO started DecimalConversion process
+2021-11-15T21:10:19.035+0530 INFO ended DecimalConversion process
+2021-11-15T21:10:19.066+0530 DEBUG Save User Starts
+2021-11-15T21:10:19.066+0530 DEBUG Save User Ends
+2021-11-15T21:10:19.067+0530 DEBUG Save User Starts
+2021-11-15T21:10:19.067+0530 DEBUG Save User Ends
+2021-11-15T21:10:19.070+0530 DEBUG Retrieve User Starts
+2021-11-15T21:10:19.071+0530 DEBUG Retrieve User Starts
+2021-11-15T21:10:19.158+0530 DEBUG Change Password Starts
+2021-11-15T21:10:19.158+0530 DEBUG Update User Ends
+2021-11-15T21:10:19.160+0530 DEBUG Change Password Starts
+2021-11-15T21:10:19.160+0530 DEBUG Change Password Ends
+2021-11-15T21:10:19.160+0530 DEBUG Change Password Starts
+2021-11-15T21:10:19.160+0530 DEBUG Change Password Ends
+2021-11-15T21:10:19.160+0530 DEBUG Change Password Starts
+2021-11-15T21:10:19.164+0530 DEBUG Update User Starts
+2021-11-15T21:10:19.165+0530 DEBUG Update User Ends
+2021-11-15T21:10:19.166+0530 DEBUG Update User Starts
+2021-11-15T21:10:19.166+0530 DEBUG Update User Ends
+2021-11-15T21:10:19.166+0530 DEBUG Update User Starts
+2021-11-15T21:10:19.166+0530 DEBUG Update User Ends
+2021-11-15T21:10:19.171+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:19.171+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:19.171+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:19.171+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:19.172+0530 DEBUG Find By User Name Starts
+2021-11-15T21:10:19.172+0530 DEBUG Find By User Name Ends
+2021-11-15T21:10:19.175+0530 DEBUG Update User Profile Starts
+2021-11-15T21:10:19.176+0530 DEBUG Update User Profile Starts
+2021-11-15T21:12:52.961+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:12:52.994+0530 INFO called retrieveAllRegistration function
+2021-11-15T21:12:53.004+0530 INFO RegistrationControllerTest testRetrieveAllRegistration_funcion Ended
+2021-11-15T21:12:53.045+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Started
+2021-11-15T21:12:53.082+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:12:53.138+0530 INFO called updatePermission function AdminUserName : lvsystem@capeindia.net
+2021-11-15T21:12:53.139+0530 INFO RegistrationControllerTest testUpdatePermission_funcion Ended
+2021-11-15T21:12:53.218+0530 DEBUG Update Application Type starts
+2021-11-15T21:12:53.218+0530 DEBUG Update Application Type ends
+2021-11-15T21:12:53.234+0530 DEBUG Add ApplicationTypes starts
+2021-11-15T21:12:53.235+0530 DEBUG Add ApplicationTypes ends
+2021-11-15T21:12:53.383+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:12:53.384+0530 INFO FinalReportAPI_started retrieveSiteDetails function UserName: LVsystem@gmail.com
+2021-11-15T21:12:53.384+0530 INFO FinalReportControllerTest testRetrieveListOfSite Function Started
+2021-11-15T21:12:53.389+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:12:53.389+0530 INFO FinalReportAPI_started retrieveFinalReport function userName: LVsystem@gmail.com,siteId : 1
+2021-11-15T21:12:53.391+0530 INFO FinalReportControllerTest retrieveFinalReport Function Started
+2021-11-15T21:12:53.499+0530 INFO called updateInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1,PeriodicInspectionId : null
+2021-11-15T21:12:53.509+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.511+0530 INFO called replyComments function InspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.522+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.529+0530 INFO called addInspectionDetails function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.539+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.548+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:12:53.595+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.596+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.602+0530 INFO called addInstallationReport function UserName : Inspector@gmail.com, SiteId
+2021-11-15T21:12:53.607+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.612+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:12:53.617+0530 INFO called retrieveInstallationReport function UserName: Inspector@gmail.com, SiteId : 1
+2021-11-15T21:12:53.622+0530 INFO called updateInstallationReport function UserName : Inspector@gmail.com,SiteId : 1,ReportId : 12
+2021-11-15T21:12:53.808+0530 DEBUG retrieveInformation_function started
+2021-11-15T21:12:53.818+0530 DEBUG forgotPassword started
+2021-11-15T21:12:53.828+0530 DEBUG Change Password Starts
+2021-11-15T21:12:53.828+0530 DEBUG Change Password Ends
+2021-11-15T21:12:53.837+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:12:53.840+0530 DEBUG Create Authenticate Token ends
+2021-11-15T21:12:53.842+0530 DEBUG Create Authenticate Token starts
+2021-11-15T21:12:53.851+0530 DEBUG Update Password starts
+2021-11-15T21:12:53.851+0530 DEBUG Update Password ends
+2021-11-15T21:12:53.858+0530 DEBUG CreatePassword starts
+2021-11-15T21:12:53.859+0530 DEBUG CreatePassword ends
+2021-11-15T21:12:53.926+0530 INFO testRetrievePeriodicTesting Function Started
+2021-11-15T21:12:53.927+0530 INFO Started retrievePeriodicTesting function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:12:53.927+0530 INFO ended retrievePeriodicTesting function
+2021-11-15T21:12:53.927+0530 INFO testRetrievePeriodicTesting Function Ended
+2021-11-15T21:12:53.933+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.935+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.939+0530 INFO testUpdatePeriodicTesting Function Started
+2021-11-15T21:12:53.940+0530 INFO called updatePeriodicTesting function UserName : Inspector@gmail.com,SiteId : 1,TestingReportId : null
+2021-11-15T21:12:53.940+0530 INFO testUpdatePeriodicTesting Function Ended
+2021-11-15T21:12:53.945+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:53.951+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:12:53.958+0530 INFO testSavePeriodicTesting Function Started
+2021-11-15T21:12:53.958+0530 INFO started savePeriodicTesting function userName: Inspector@gmail.com,siteId : 1
+2021-11-15T21:12:53.958+0530 INFO ended savePeriodicTesting function
+2021-11-15T21:12:53.959+0530 INFO testSavePeriodicTesting Function Ended
+2021-11-15T21:12:53.972+0530 INFO RegistrationControllerTest testResendOtp_funcion Started
+2021-11-15T21:12:53.973+0530 DEBUG called sendOtp function UserName : lvsystem@capeindia.net, MobileNumber : +91-9878789788
+2021-11-15T21:12:53.973+0530 INFO RegistrationControllerTest testResendOtp_funcion Ended
+2021-11-15T21:12:53.981+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Started
+2021-11-15T21:12:53.982+0530 INFO called retrieveRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:12:53.982+0530 INFO RegistrationControllerTest testRetrieveRegistration_funcion Ended
+2021-11-15T21:12:53.988+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Started
+2021-11-15T21:12:53.990+0530 DEBUG called updateRegistration function UserName : lvsystem@capeindia.net, IsLicenseUpdate : true
+2021-11-15T21:12:53.990+0530 INFO RegistrationControllerTest testUpdateRegistration_funcion Ended
+2021-11-15T21:12:53.995+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Started
+2021-11-15T21:12:53.996+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:12:53.996+0530 INFO RegistrationControllerTest testViewerRegistration_funcion Ended
+2021-11-15T21:12:54.002+0530 INFO RegistrationControllerTest testAddRegistration_funcion Started
+2021-11-15T21:12:54.003+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:12:54.004+0530 INFO called addRegistration function UserName : lvsystem@capeindia.net
+2021-11-15T21:12:54.004+0530 INFO RegistrationControllerTest testAddRegistration_funcion Ended
+2021-11-15T21:12:54.011+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Started
+2021-11-15T21:12:54.011+0530 DEBUG called updateLicence function UserName : lvsystem@capeindia.net
+2021-11-15T21:12:54.011+0530 INFO RegistrationControllerTest testUpdateLicence_funcion Ended
+2021-11-15T21:12:54.068+0530 INFO called retriveSiteByName function Company Name: null, Department: null, Site Name: null
+2021-11-15T21:12:54.074+0530 INFO called deleteSite function siteId: 1
+2021-11-15T21:12:54.078+0530 INFO called updateSite function UserName: hasan,Site : user
+2021-11-15T21:12:54.085+0530 INFO called retriveSite function UserName: hasan
+2021-11-15T21:12:54.091+0530 INFO called addSite function UserName : user, Site : {}
+2021-11-15T21:12:54.158+0530 INFO testUpdateSummary Function Started
+2021-11-15T21:12:54.158+0530 INFO called updateSummary function UserName : LVsystem@gmail.com,SiteId : 12,SummaryId : null
+2021-11-15T21:12:54.159+0530 INFO testUpdateSummary Function Ended
+2021-11-15T21:12:54.166+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.168+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.174+0530 INFO testAddSummary Function Started
+2021-11-15T21:12:54.175+0530 INFO started addSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:12:54.175+0530 INFO ended addSummary function
+2021-11-15T21:12:54.175+0530 INFO testAddSummary Function Ended
+2021-11-15T21:12:54.181+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.189+0530 INFO called sendComments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:12:54.196+0530 INFO testRetrieveSummary Function Started
+2021-11-15T21:12:54.198+0530 INFO called retrieveSummary function userName: LVsystem@gmail.com,siteId : 12
+2021-11-15T21:12:54.199+0530 INFO testRetrieveSummary Function Ended
+2021-11-15T21:12:54.259+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.260+0530 INFO called replyComments function inspectorUserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.265+0530 INFO called updateCharacteristics function UserName : cape,SiteId : 1,SupplyCharacteristicsId : 1
+2021-11-15T21:12:54.272+0530 INFO called addCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:12:54.278+0530 INFO called approveComments function UserName : Inspector@gmail.com,SiteId : 1
+2021-11-15T21:12:54.285+0530 INFO called sendcomments function UserName : Viewer@gmail.com,SiteId : 1
+2021-11-15T21:12:54.293+0530 INFO started retrieveCharacteristics function UserName : cape, SiteId : 1
+2021-11-15T21:12:54.912+0530 INFO Starting LvSafetyVerificationApplicationTests using Java 1.8.0_271 on DESKTOP-PUJTA74 with PID 19072 (started by capeelectricsoftware in C:\Users\gopa0\sathish\backend\latest\lv-inspection-safety-backend)
+2021-11-15T21:12:54.913+0530 DEBUG Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-15T21:12:54.913+0530 INFO The following profiles are active: dev
+2021-11-15T21:13:05.557+0530 INFO Started LvSafetyVerificationApplicationTests in 10.924 seconds (JVM running for 15.935)
+2021-11-15T21:13:05.826+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:13:05.827+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:13:05.827+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:13:05.827+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:13:05.828+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:13:05.828+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:13:05.828+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:13:05.829+0530 DEBUG fetching process started for PriodicTesting
+2021-11-15T21:13:05.829+0530 DEBUG PriodicTesting_fetching ended
+2021-11-15T21:13:05.829+0530 DEBUG fetching process started for Summary
+2021-11-15T21:13:05.829+0530 DEBUG Summary_fetching ended
+2021-11-15T21:13:05.829+0530 DEBUG Successfully Five_Steps fetching Operation done
+2021-11-15T21:13:05.830+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:13:05.839+0530 INFO testRetriveListOfSite method started
+2021-11-15T21:13:05.840+0530 INFO Site fetching process started
+2021-11-15T21:13:05.841+0530 INFO testRetriveListOfSite method ended
+2021-11-15T21:13:05.849+0530 INFO testRetriveFinalReport_NotHaveingAllStepData method started
+2021-11-15T21:13:05.849+0530 DEBUG fetching process started for InstallReport_Information
+2021-11-15T21:13:05.850+0530 DEBUG InstallReport_Information fetching ended
+2021-11-15T21:13:05.850+0530 DEBUG fetching process started for SupplyCharacteristic
+2021-11-15T21:13:05.850+0530 DEBUG SupplyCharacteristic_fetching ended
+2021-11-15T21:13:05.850+0530 DEBUG fetching process started for PriodicInspection
+2021-11-15T21:13:05.850+0530 DEBUG PriodicInspection_fetching ended
+2021-11-15T21:13:06.889+0530 DEBUG Change Password Starts
+2021-11-15T21:13:06.891+0530 DEBUG Update User Ends
+2021-11-15T21:13:06.895+0530 DEBUG Change Password Starts
+2021-11-15T21:13:06.895+0530 DEBUG Change Password Ends
+2021-11-15T21:13:06.897+0530 DEBUG Change Password Starts
+2021-11-15T21:13:06.897+0530 DEBUG Change Password Ends
+2021-11-15T21:13:06.905+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:13:06.906+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:13:06.908+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:13:06.908+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:13:06.909+0530 DEBUG UpdatePassword Starts
+2021-11-15T21:13:06.910+0530 DEBUG UpdatePassword Ends
+2021-11-15T21:13:06.920+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:06.921+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:06.924+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:06.924+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:06.926+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:06.927+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:06.942+0530 DEBUG createPassword Starts
+2021-11-15T21:13:06.943+0530 DEBUG Successfully Otp Verified
+2021-11-15T21:13:06.943+0530 DEBUG createPassword Ends
+2021-11-15T21:13:06.944+0530 DEBUG createPassword Starts
+2021-11-15T21:13:06.947+0530 DEBUG createPassword Starts
+2021-11-15T21:13:06.947+0530 DEBUG createPassword Ends
+2021-11-15T21:13:06.947+0530 DEBUG createPassword Starts
+2021-11-15T21:13:06.948+0530 DEBUG createPassword Ends
+2021-11-15T21:13:06.969+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:13:06.970+0530 INFO Invalid Input flow
+2021-11-15T21:13:06.976+0530 INFO SiteId already Present_flow
+2021-11-15T21:13:06.977+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:13:06.978+0530 INFO Invalid Present_flow
+2021-11-15T21:13:07.008+0530 INFO 'NA'value checking processes started
+2021-11-15T21:13:07.008+0530 INFO Demcimal_Conversion success case
+2021-11-15T21:13:07.010+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.010+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.010+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.010+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.011+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.011+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.011+0530 INFO Successfully added Summary_Object flow
+2021-11-15T21:13:07.012+0530 INFO Demcimal_Conversion faild case
+2021-11-15T21:13:07.012+0530 INFO failed DecimalConversion process
+2021-11-15T21:13:07.012+0530 INFO 'NA'value checking processes started
+2021-11-15T21:13:07.053+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:13:07.054+0530 DEBUG Started retrieveAllRegistration
+2021-11-15T21:13:07.054+0530 INFO RegistrationServiceTest testRetrieveAllRegistration_funcion Started
+2021-11-15T21:13:07.062+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:13:07.063+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:13:07.065+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:13:07.065+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:13:07.066+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:13:07.066+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:13:07.067+0530 DEBUG Given UserName Already Present
+2021-11-15T21:13:07.067+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:13:07.067+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:13:07.067+0530 INFO RegistrationServiceTest testAddViewerRegistration_funcion Started
+2021-11-15T21:13:07.076+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion Started
+2021-11-15T21:13:07.077+0530 DEBUG RetrieveRegistration Started with User : lvsystem@capeindia.net 
+2021-11-15T21:13:07.078+0530 DEBUG RetrieveRegistration Started with User : lvsystem1@capeindia.net 
+2021-11-15T21:13:07.079+0530 DEBUG RetrieveRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:13:07.079+0530 INFO RegistrationServiceTest testRetrieveRegistration_funcion End
+2021-11-15T21:13:07.087+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:13:07.088+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:13:07.089+0530 DEBUG UpdatingRegistration Started
+2021-11-15T21:13:07.090+0530 DEBUG UpdatingRegistration is Failed , Because Given User not present
+2021-11-15T21:13:07.091+0530 DEBUG UpdatingRegistration is Failed , Because Invalid Inputs
+2021-11-15T21:13:07.091+0530 INFO RegistrationServiceTest testUpdateRegistration_funcion Started
+2021-11-15T21:13:07.096+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:13:07.098+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:13:07.098+0530 DEBUG Sucessfully Registration Information Saved
+2021-11-15T21:13:07.099+0530 DEBUG AddingRegistration Starts with User : lvsystem123@capeindia.net 
+2021-11-15T21:13:07.099+0530 DEBUG false  Given MobileNumber is Invalid
+2021-11-15T21:13:07.099+0530 DEBUG AddingRegistration Starts with User : lvsystem@capeindia.net 
+2021-11-15T21:13:07.099+0530 DEBUG Given UserName Already Present
+2021-11-15T21:13:07.100+0530 DEBUG AddingRegistration Starts with User : null 
+2021-11-15T21:13:07.100+0530 DEBUG AddingRegistration is Faild , Because Invalid Inputs
+2021-11-15T21:13:07.100+0530 INFO RegistrationServiceTest testAddRegistration_funcion Started
+2021-11-15T21:13:07.106+0530 INFO RegistrationServiceTest testUpdateLicence_funcion Started
+2021-11-15T21:13:07.107+0530 INFO RegistrationServiceTest testUpdateLicence_funcion End
+2021-11-15T21:13:07.114+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:13:07.115+0530 DEBUG updatePermission_function called
+2021-11-15T21:13:07.115+0530 DEBUG Admin accepted Registration Permission
+2021-11-15T21:13:07.115+0530 DEBUG updatePermission_function called
+2021-11-15T21:13:07.116+0530 DEBUG Admin Not-acepted Registration Permission
+2021-11-15T21:13:07.118+0530 DEBUG updatePermission_function called
+2021-11-15T21:13:07.118+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:13:07.119+0530 DEBUG updatePermission_function called
+2021-11-15T21:13:07.119+0530 DEBUG Given RegisterId not Avilable in DB
+2021-11-15T21:13:07.119+0530 INFO RegistrationServiceTest testUpdatePermission_funcion Started
+2021-11-15T21:13:07.127+0530 INFO RegistrationServiceTest testSendOtp_funcion Started
+2021-11-15T21:13:07.130+0530 INFO RegistrationServiceTest testSendOtp_funcion End
+2021-11-15T21:13:07.287+0530 INFO SuccessFlow of Retrieve Summary Obeject
+2021-11-15T21:13:07.287+0530 INFO Invalid Input flow
+2021-11-15T21:13:07.370+0530 INFO decimal formating corrections started for Main supply
+2021-11-15T21:13:07.370+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.371+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.371+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.371+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.372+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.372+0530 INFO started DecimalConversion process
+2021-11-15T21:13:07.372+0530 INFO ended DecimalConversion process
+2021-11-15T21:13:07.372+0530 INFO decimal formating corrections ended for Main supply
+2021-11-15T21:13:07.436+0530 DEBUG Save User Starts
+2021-11-15T21:13:07.436+0530 DEBUG Save User Ends
+2021-11-15T21:13:07.437+0530 DEBUG Save User Starts
+2021-11-15T21:13:07.437+0530 DEBUG Save User Ends
+2021-11-15T21:13:07.445+0530 DEBUG Retrieve User Starts
+2021-11-15T21:13:07.446+0530 DEBUG Retrieve User Starts
+2021-11-15T21:13:07.595+0530 DEBUG Change Password Starts
+2021-11-15T21:13:07.595+0530 DEBUG Update User Ends
+2021-11-15T21:13:07.596+0530 DEBUG Change Password Starts
+2021-11-15T21:13:07.596+0530 DEBUG Change Password Ends
+2021-11-15T21:13:07.597+0530 DEBUG Change Password Starts
+2021-11-15T21:13:07.597+0530 DEBUG Change Password Ends
+2021-11-15T21:13:07.597+0530 DEBUG Change Password Starts
+2021-11-15T21:13:07.606+0530 DEBUG Update User Starts
+2021-11-15T21:13:07.607+0530 DEBUG Update User Ends
+2021-11-15T21:13:07.608+0530 DEBUG Update User Starts
+2021-11-15T21:13:07.608+0530 DEBUG Update User Ends
+2021-11-15T21:13:07.608+0530 DEBUG Update User Starts
+2021-11-15T21:13:07.609+0530 DEBUG Update User Ends
+2021-11-15T21:13:07.618+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:07.619+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:07.620+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:07.620+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:07.620+0530 DEBUG Find By User Name Starts
+2021-11-15T21:13:07.621+0530 DEBUG Find By User Name Ends
+2021-11-15T21:13:07.628+0530 DEBUG Update User Profile Starts
+2021-11-15T21:13:07.629+0530 DEBUG Update User Profile Starts
+2023-02-28T12:37:17.579+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 9020 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-02-28T12:37:17.583+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-02-28T12:37:17.584+0530 INFO No active profile set, falling back to default profiles: default
+2023-02-28T12:37:28.747+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-02-28T12:37:31.227+0530 INFO Started LvSafetyVerificationApplication in 14.343 seconds (JVM running for 15.376)
+2023-02-28T12:37:37.879+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 9020 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-02-28T12:37:37.880+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-02-28T12:37:37.880+0530 INFO No active profile set, falling back to default profiles: default
+2023-02-28T12:37:39.719+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-02-28T12:37:41.110+0530 INFO Started LvSafetyVerificationApplication in 3.3 seconds (JVM running for 25.26)
+2023-02-28T12:38:24.562+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:39:09.139+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:40:24.522+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:40:29.114+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:41:45.283+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:41:57.579+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:42:33.376+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:43:46.809+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:44:03.584+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:44:45.154+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:46:44.349+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:47:53.915+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:48:06.510+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:48:28.750+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:56:02.252+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:57:24.437+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:59:10.656+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:59:16.142+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:59:30.728+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T12:59:30.871+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:00:00.024+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:00:05.330+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:00:42.538+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:01:00.009+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:01:06.303+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T13:45:38.827+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T14:48:18.592+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T14:56:00.891+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T14:56:04.815+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:12:04.593+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:16:43.448+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:16:45.279+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:21:10.473+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:21:30.079+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:23:21.292+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:23:24.034+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:24:25.689+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:25:27.122+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:26:09.495+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:26:28.994+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:26:39.418+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:26:53.087+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:29:38.745+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:30:07.825+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:30:54.722+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:52:23.349+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T15:57:36.017+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T16:02:20.170+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T16:30:14.471+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T16:33:01.657+0530 WARN JWT Token does not begin with Bearer String
+2023-02-28T16:33:05.048+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:26:45.849+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 14984 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-01T09:26:45.851+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-01T09:26:45.852+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-01T09:26:53.539+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-01T09:26:56.078+0530 INFO Started LvSafetyVerificationApplication in 10.617 seconds (JVM running for 11.254)
+2023-03-01T09:27:04.027+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:27:22.303+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:27:25.324+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:27:42.883+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:27:55.224+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:31:13.653+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:32:10.067+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:32:16.598+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:32:24.030+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:32:34.875+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:32:49.320+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:33:16.062+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:33:35.668+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:33:42.963+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T09:33:50.463+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:26:55.535+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:27:35.126+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:28:27.290+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:33:27.622+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:33:54.614+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:34:56.031+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:36:52.502+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:37:59.894+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:38:45.894+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:38:45.991+0530 DEBUG Called addRegistration function UserName : null
+2023-03-01T12:38:46.029+0530 DEBUG AddingRegistration Starts with User : null 
+2023-03-01T12:38:46.029+0530 ERROR AddingRegistration is Faild , Because Invalid Inputs
+2023-03-01T12:42:44.758+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:43:47.709+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:44:12.621+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:44:12.625+0530 DEBUG Called addRegistration function UserName : dhanavandhan@capeindia.net
+2023-03-01T12:44:12.625+0530 DEBUG AddingRegistration Starts with User : dhanavandhan@capeindia.net 
+2023-03-01T12:45:55.272+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 14984 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-01T12:45:55.272+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-01T12:45:55.272+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-01T12:45:59.850+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-01T12:46:01.215+0530 INFO Started LvSafetyVerificationApplication in 5.996 seconds (JVM running for 11956.468)
+2023-03-01T12:47:08.074+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T12:47:08.093+0530 DEBUG Called addRegistration function UserName : dhanavandhan@capeindia.net
+2023-03-01T12:47:08.104+0530 DEBUG AddingRegistration Starts with User : dhanavandhan@capeindia.net 
+2023-03-01T12:47:08.267+0530 DEBUG Successfully Registration Information Saved
+2023-03-01T13:39:52.965+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T13:40:07.825+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T13:51:57.260+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T14:23:18.257+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T14:34:25.808+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T14:34:36.892+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T15:18:38.580+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:02.338+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:02.375+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:02.449+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:03.676+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:03.682+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:03.692+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:04.809+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:04.815+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:04.819+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:05.274+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:05.277+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:05.280+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:05.489+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:05.492+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:05.495+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:05.691+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:05.696+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:05.702+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:05.891+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:05.895+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:05.899+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:06.082+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:06.089+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:06.104+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:06.283+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:06.287+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:06.314+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:06.463+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:06.465+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:06.505+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:06.671+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:06.673+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:06.676+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:07.389+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:07.394+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:07.398+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:07.594+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:24:07.597+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:24:07.599+0530 ERROR There is no registered user available for this email
+2023-03-01T16:24:09.449+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:33:22.144+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:33:22.151+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:33:22.188+0530 ERROR Admin not approved for Your registration
+2023-03-01T16:57:50.093+0530 WARN JWT Token does not begin with Bearer String
+2023-03-01T16:57:50.098+0530 DEBUG Create Authenticate Token starts
+2023-03-01T16:57:50.343+0530 ERROR Authentication failed : Bad credentials
+2023-03-06T09:35:46.127+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T09:35:46.131+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T09:35:46.131+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T09:35:55.496+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T09:35:58.091+0530 INFO Started LvSafetyVerificationApplication in 12.34 seconds (JVM running for 12.839)
+2023-03-06T09:37:05.001+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T09:44:51.930+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T10:11:38.515+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T10:11:39.194+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T10:11:39.679+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:05:02.912+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:30:06.862+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:31:00.024+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:31:18.115+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:31:55.204+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:32:00.793+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:32:04.414+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:32:12.463+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T11:58:38.619+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:01:16.872+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:04:06.467+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:04:15.806+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:15:20.280+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:30:39.684+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:30:44.559+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:32:01.921+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:32:20.013+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:33:19.273+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:39:30.418+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:39:36.498+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:39:58.564+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:39:59.007+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:40:20.618+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:41:06.767+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:41:16.644+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:41:28.851+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:41:41.765+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:42:50.261+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:42:56.176+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:45:11.582+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:45:15.722+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:46:50.898+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:46:56.053+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:47:29.139+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:47:40.003+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:48:58.893+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:49:06.089+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:51:10.472+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:51:33.939+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:55:33.515+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:55:52.986+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:56:07.762+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T12:59:17.181+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:06:26.424+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:08:48.086+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:08:56.947+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:10:12.914+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:10:25.020+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:13:53.383+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:14:30.899+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:16:36.485+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:16:53.674+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:18:53.730+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:18:59.948+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:20:07.782+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:20:34.935+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:22:54.242+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:23:02.080+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:23:26.354+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T14:23:40.098+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T17:17:44.165+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T17:40:44.764+0530 WARN JWT Token does not begin with Bearer String
+2023-03-06T18:30:27.334+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:30:27.336+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:30:27.337+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:30:33.741+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:30:35.698+0530 INFO Started LvSafetyVerificationApplication in 8.449 seconds (JVM running for 32090.744)
+2023-03-06T18:30:37.574+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:30:37.574+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:30:37.574+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:30:41.332+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:30:42.756+0530 INFO Started LvSafetyVerificationApplication in 5.235 seconds (JVM running for 32097.803)
+2023-03-06T18:31:49.039+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:31:49.039+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:31:49.039+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:31:55.060+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:31:56.457+0530 INFO Started LvSafetyVerificationApplication in 7.459 seconds (JVM running for 32171.504)
+2023-03-06T18:32:07.974+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:32:07.974+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:32:07.974+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:32:12.887+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:32:14.295+0530 INFO Started LvSafetyVerificationApplication in 6.359 seconds (JVM running for 32189.342)
+2023-03-06T18:32:27.427+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:32:27.428+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:32:27.428+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:32:32.568+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:32:33.917+0530 INFO Started LvSafetyVerificationApplication in 6.543 seconds (JVM running for 32208.963)
+2023-03-06T18:32:41.180+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:32:41.180+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:32:41.180+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:32:44.237+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:32:45.058+0530 INFO Started LvSafetyVerificationApplication in 3.904 seconds (JVM running for 32220.105)
+2023-03-06T18:32:56.473+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:32:56.475+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:32:56.475+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:32:59.349+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:33:00.094+0530 INFO Started LvSafetyVerificationApplication in 3.645 seconds (JVM running for 32235.14)
+2023-03-06T18:33:11.642+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:33:11.642+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:33:11.642+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:33:14.543+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:33:15.279+0530 INFO Started LvSafetyVerificationApplication in 3.665 seconds (JVM running for 32250.325)
+2023-03-06T18:33:49.223+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:33:49.223+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:33:49.223+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:33:52.133+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:33:52.742+0530 INFO Started LvSafetyVerificationApplication in 3.542 seconds (JVM running for 32287.788)
+2023-03-06T18:33:57.942+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:33:57.942+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:33:57.943+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:34:00.537+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:34:01.700+0530 INFO Started LvSafetyVerificationApplication in 3.784 seconds (JVM running for 32296.747)
+2023-03-06T18:34:05.800+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:34:05.801+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:34:05.801+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:34:08.502+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:34:09.112+0530 INFO Started LvSafetyVerificationApplication in 3.337 seconds (JVM running for 32304.159)
+2023-03-06T18:34:26.912+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:34:26.913+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:34:26.913+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:34:29.456+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:34:30.127+0530 INFO Started LvSafetyVerificationApplication in 3.24 seconds (JVM running for 32325.174)
+2023-03-06T18:34:45.839+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:34:45.839+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:34:45.839+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:34:48.427+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:34:49.048+0530 INFO Started LvSafetyVerificationApplication in 3.233 seconds (JVM running for 32344.095)
+2023-03-06T18:34:56.330+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:34:56.330+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:34:56.331+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:34:58.979+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:34:59.944+0530 INFO Started LvSafetyVerificationApplication in 3.64 seconds (JVM running for 32354.99)
+2023-03-06T18:35:27.402+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:35:27.403+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:35:27.403+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:35:30.023+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:35:30.673+0530 INFO Started LvSafetyVerificationApplication in 3.293 seconds (JVM running for 32385.721)
+2023-03-06T18:35:38.983+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:35:38.983+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:35:38.983+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:35:41.791+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:35:42.458+0530 INFO Started LvSafetyVerificationApplication in 3.497 seconds (JVM running for 32397.505)
+2023-03-06T18:35:52.996+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:35:52.996+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:35:52.996+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:35:56.083+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:36:00.165+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:36:00.165+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:36:00.166+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:36:02.812+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:36:25.398+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:36:25.399+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:36:25.399+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:36:28.101+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:36:39.920+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:36:39.920+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:36:39.920+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:36:43.351+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:36:50.034+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:36:50.035+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:36:50.035+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:36:52.957+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:37:02.739+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:37:02.739+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:37:02.739+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:37:07.406+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:37:10.003+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:37:10.003+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:37:10.003+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:37:15.205+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:37:34.581+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:37:34.582+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:37:34.582+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:37:41.457+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:38:03.520+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:38:03.521+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:38:03.521+0530 INFO No active profile set, falling back to default profiles: default
+2023-03-06T18:38:07.500+0530 DEBUG Filter 'jwtRequestFilter' configured for use
+2023-03-06T18:41:53.633+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:41:53.635+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:41:53.635+0530 INFO The following profiles are active: dev
+2023-03-06T18:42:41.301+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:42:41.302+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:42:41.302+0530 INFO The following profiles are active: dev
+2023-03-06T18:42:49.328+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:42:49.328+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:42:49.328+0530 INFO The following profiles are active: dev
+2023-03-06T18:42:57.333+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:42:57.333+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:42:57.333+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:13.168+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:13.169+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:13.169+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:23.290+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:23.290+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:23.290+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:31.035+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:31.036+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:31.036+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:44.169+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:44.170+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:44.171+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:50.656+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:50.656+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:50.657+0530 INFO The following profiles are active: dev
+2023-03-06T18:43:57.509+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:43:57.510+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:43:57.510+0530 INFO The following profiles are active: dev
+2023-03-06T18:44:08.289+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:44:08.290+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:44:08.290+0530 INFO The following profiles are active: dev
+2023-03-06T18:44:25.004+0530 INFO Starting LvSafetyVerificationApplication using Java 1.8.0_271 on DESKTOP-RPFOKP8 with PID 25940 (C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend\target\classes started by dhanavandhan in C:\Users\dhanavandhan\Documents\GitHub\Cape-Electric-LV-Backend)
+2023-03-06T18:44:25.004+0530 DEBUG Running with Spring Boot v2.5.2, Spring v5.3.8
+2023-03-06T18:44:25.004+0530 INFO The following profiles are active: dev

@@ -1,0 +1,1231 @@
+2023-02-28T12:37:30.722+0530 DEBUG 203 mappings in 'requestMappingHandlerMapping'
+2023-02-28T12:37:30.819+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-28T12:37:30.897+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-28T12:37:30.957+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-28T12:37:41.006+0530 DEBUG 203 mappings in 'requestMappingHandlerMapping'
+2023-02-28T12:37:41.036+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-28T12:37:41.059+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-28T12:37:41.067+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-28T12:38:24.381+0530 INFO Initializing Servlet 'dispatcherServlet'
+2023-02-28T12:38:24.384+0530 DEBUG Detected StandardServletMultipartResolver
+2023-02-28T12:38:24.385+0530 DEBUG Detected AcceptHeaderLocaleResolver
+2023-02-28T12:38:24.385+0530 DEBUG Detected FixedThemeResolver
+2023-02-28T12:38:24.388+0530 DEBUG Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@62660533
+2023-02-28T12:38:24.389+0530 DEBUG Detected org.springframework.web.servlet.support.SessionFlashMapManager@49c43f1e
+2023-02-28T12:38:24.389+0530 DEBUG enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-02-28T12:38:24.392+0530 INFO Completed initialization in 6 ms
+2023-02-28T12:38:24.503+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:38:24.601+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:38:24.610+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:38:25.095+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:38:25.097+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:38:25.366+0530 DEBUG Completed 200 OK
+2023-02-28T12:39:09.136+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:39:09.141+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:39:09.142+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:39:09.148+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:39:09.149+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:39:09.155+0530 DEBUG Completed 200 OK
+2023-02-28T12:40:24.519+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:40:24.525+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:40:24.526+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:40:24.531+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:40:24.533+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:40:24.540+0530 DEBUG Completed 200 OK
+2023-02-28T12:40:29.112+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:40:29.115+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:40:29.116+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:40:29.118+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:40:29.118+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:40:29.123+0530 DEBUG Completed 200 OK
+2023-02-28T12:41:45.281+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:41:45.284+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:41:45.285+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:41:45.290+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:41:45.291+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:41:45.295+0530 DEBUG Completed 200 OK
+2023-02-28T12:41:57.577+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:41:57.580+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:41:57.581+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:41:57.583+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:41:57.583+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:41:57.588+0530 DEBUG Completed 200 OK
+2023-02-28T12:42:33.374+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:42:33.377+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:42:33.378+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:42:33.379+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:42:33.379+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:42:33.383+0530 DEBUG Completed 200 OK
+2023-02-28T12:43:46.807+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:43:46.810+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:43:46.811+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:43:46.812+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:43:46.813+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:43:46.818+0530 DEBUG Completed 200 OK
+2023-02-28T12:44:03.582+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:44:03.585+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:44:03.585+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:44:03.588+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:44:03.589+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:44:03.592+0530 DEBUG Completed 200 OK
+2023-02-28T12:44:45.152+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:44:45.155+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:44:45.156+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:44:45.157+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:44:45.158+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:44:45.161+0530 DEBUG Completed 200 OK
+2023-02-28T12:46:44.347+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:46:44.350+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:46:44.350+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:46:44.351+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:46:44.352+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:46:44.353+0530 DEBUG Completed 200 OK
+2023-02-28T12:47:53.914+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:47:53.916+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:47:53.916+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:47:53.917+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:47:53.918+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:47:53.920+0530 DEBUG Completed 200 OK
+2023-02-28T12:48:06.509+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:48:06.510+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:48:06.511+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:48:06.512+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:48:06.512+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:48:06.514+0530 DEBUG Completed 200 OK
+2023-02-28T12:48:28.749+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:48:28.751+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:48:28.752+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:48:28.753+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:48:28.753+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:48:28.755+0530 DEBUG Completed 200 OK
+2023-02-28T12:56:02.251+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:56:02.253+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:56:02.254+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:56:02.254+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:56:02.255+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:56:02.258+0530 DEBUG Completed 200 OK
+2023-02-28T12:57:24.436+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:57:24.439+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:57:24.439+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:57:24.441+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:57:24.441+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:57:24.442+0530 DEBUG Completed 200 OK
+2023-02-28T12:59:10.654+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:59:10.657+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T12:59:10.657+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T12:59:10.658+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:59:10.660+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T12:59:10.662+0530 DEBUG Completed 200 OK
+2023-02-28T12:59:16.140+0530 DEBUG Mapped to ResourceHttpRequestHandler [Classpath [META-INF/resources/], Classpath [resources/], Classpath [static/], Classpath [public/], ServletContext [/]]
+2023-02-28T12:59:16.157+0530 DEBUG "ERROR" dispatch for GET "/error", parameters={}
+2023-02-28T12:59:16.160+0530 DEBUG Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-02-28T12:59:16.176+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:59:16.177+0530 DEBUG Writing [{timestamp=Tue Feb 28 12:59:16 IST 2023, status=401, error=Unauthorized, message=Unauthorized, path= (truncated)...]
+2023-02-28T12:59:16.189+0530 DEBUG Exiting from "ERROR" dispatch, status 401
+2023-02-28T12:59:30.723+0530 DEBUG Mapped to ResourceHttpRequestHandler [Classpath [META-INF/resources/], Classpath [resources/], Classpath [static/], Classpath [public/], ServletContext [/]]
+2023-02-28T12:59:30.729+0530 DEBUG "ERROR" dispatch for GET "/error", parameters={}
+2023-02-28T12:59:30.736+0530 DEBUG Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#errorHtml(HttpServletRequest, HttpServletResponse)
+2023-02-28T12:59:30.788+0530 DEBUG Selected 'text/html' given [text/html, text/html;q=0.8]
+2023-02-28T12:59:30.800+0530 DEBUG Exiting from "ERROR" dispatch, status 401
+2023-02-28T12:59:30.871+0530 DEBUG Mapped to ResourceHttpRequestHandler [Classpath [META-INF/resources/], Classpath [resources/], Classpath [static/], Classpath [public/], ServletContext [/]]
+2023-02-28T12:59:30.873+0530 DEBUG "ERROR" dispatch for GET "/error", parameters={}
+2023-02-28T12:59:30.874+0530 DEBUG Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-02-28T12:59:30.879+0530 DEBUG Using 'application/json;q=0.8', given [image/avif, image/webp, image/apng, image/svg+xml, image/*, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T12:59:30.879+0530 DEBUG Writing [{timestamp=Tue Feb 28 12:59:30 IST 2023, status=401, error=Unauthorized, message=Unauthorized, path= (truncated)...]
+2023-02-28T12:59:30.898+0530 DEBUG Exiting from "ERROR" dispatch, status 401
+2023-02-28T13:00:00.023+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:00:00.024+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T13:00:00.025+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:00:00.027+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:00:00.027+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T13:00:00.030+0530 DEBUG Completed 200 OK
+2023-02-28T13:00:05.329+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:00:05.332+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/CHN", parameters={}
+2023-02-28T13:00:05.334+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:00:05.455+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:00:05.456+0530 DEBUG Writing [[com.capeelectric.model.State@91f00104]]
+2023-02-28T13:00:05.459+0530 DEBUG Completed 200 OK
+2023-02-28T13:00:42.535+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:00:42.539+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-02-28T13:00:42.539+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:00:42.547+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:00:42.547+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-02-28T13:00:42.553+0530 DEBUG Completed 200 OK
+2023-02-28T13:01:00.007+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:01:00.009+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T13:01:00.009+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:01:00.010+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:01:00.010+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T13:01:00.013+0530 DEBUG Completed 200 OK
+2023-02-28T13:01:06.302+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:01:06.304+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-02-28T13:01:06.305+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-02-28T13:01:06.307+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:01:06.308+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-02-28T13:01:06.310+0530 DEBUG Completed 200 OK
+2023-02-28T13:45:38.826+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:45:38.828+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T13:45:38.828+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T13:45:38.830+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T13:45:38.830+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T13:45:38.832+0530 DEBUG Completed 200 OK
+2023-02-28T14:48:18.589+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:48:18.595+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T14:48:18.599+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:48:18.604+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T14:48:18.605+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T14:48:18.623+0530 DEBUG Completed 200 OK
+2023-02-28T14:56:00.890+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:56:00.893+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T14:56:00.893+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:56:00.895+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T14:56:00.895+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T14:56:00.898+0530 DEBUG Completed 200 OK
+2023-02-28T14:56:04.814+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:56:04.816+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T14:56:04.817+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T14:56:04.817+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T14:56:04.817+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T14:56:04.820+0530 DEBUG Completed 200 OK
+2023-02-28T15:12:04.591+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:12:04.594+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:12:04.594+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:12:04.596+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:12:04.597+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:12:04.598+0530 DEBUG Completed 200 OK
+2023-02-28T15:16:43.444+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:16:43.450+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:16:43.451+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:16:43.453+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:16:43.454+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:16:43.459+0530 DEBUG Completed 200 OK
+2023-02-28T15:16:45.278+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:16:45.280+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:16:45.280+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:16:45.281+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:16:45.282+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:16:45.285+0530 DEBUG Completed 200 OK
+2023-02-28T15:21:10.472+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:21:10.474+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:21:10.475+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:21:10.476+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:21:10.476+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:21:10.478+0530 DEBUG Completed 200 OK
+2023-02-28T15:21:30.078+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:21:30.080+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:21:30.080+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:21:30.081+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:21:30.081+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:21:30.083+0530 DEBUG Completed 200 OK
+2023-02-28T15:23:21.291+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:23:21.293+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:23:21.294+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:23:21.295+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:23:21.295+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:23:21.297+0530 DEBUG Completed 200 OK
+2023-02-28T15:23:24.033+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:23:24.035+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:23:24.035+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:23:24.037+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:23:24.037+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:23:24.040+0530 DEBUG Completed 200 OK
+2023-02-28T15:24:25.688+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:24:25.690+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:24:25.690+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:24:25.691+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:24:25.691+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:24:25.693+0530 DEBUG Completed 200 OK
+2023-02-28T15:25:27.121+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:25:27.123+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:25:27.123+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:25:27.124+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:25:27.125+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:25:27.126+0530 DEBUG Completed 200 OK
+2023-02-28T15:26:09.494+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:09.495+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:26:09.496+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:09.496+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:26:09.497+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:26:09.499+0530 DEBUG Completed 200 OK
+2023-02-28T15:26:28.994+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:28.995+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:26:28.995+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:28.997+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:26:28.997+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:26:28.999+0530 DEBUG Completed 200 OK
+2023-02-28T15:26:39.418+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:39.419+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:26:39.419+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:39.420+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:26:39.420+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:26:39.422+0530 DEBUG Completed 200 OK
+2023-02-28T15:26:53.087+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:53.088+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:26:53.088+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:26:53.089+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:26:53.090+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:26:53.091+0530 DEBUG Completed 200 OK
+2023-02-28T15:29:38.744+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:29:38.746+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:29:38.746+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:29:38.747+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:29:38.747+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:29:38.750+0530 DEBUG Completed 200 OK
+2023-02-28T15:30:07.825+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:30:07.826+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:30:07.826+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:30:07.827+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:30:07.828+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:30:07.829+0530 DEBUG Completed 200 OK
+2023-02-28T15:30:54.721+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:30:54.723+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:30:54.724+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:30:54.725+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:30:54.725+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:30:54.727+0530 DEBUG Completed 200 OK
+2023-02-28T15:52:23.347+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:52:23.351+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:52:23.351+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:52:23.353+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:52:23.353+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:52:23.356+0530 DEBUG Completed 200 OK
+2023-02-28T15:57:36.016+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:57:36.018+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T15:57:36.018+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T15:57:36.019+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T15:57:36.020+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T15:57:36.025+0530 DEBUG Completed 200 OK
+2023-02-28T16:02:20.168+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:02:20.174+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T16:02:20.174+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:02:20.175+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T16:02:20.175+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T16:02:20.177+0530 DEBUG Completed 200 OK
+2023-02-28T16:30:14.470+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:30:14.472+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T16:30:14.472+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:30:14.474+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T16:30:14.474+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T16:30:14.478+0530 DEBUG Completed 200 OK
+2023-02-28T16:33:01.656+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:33:01.658+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T16:33:01.658+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:33:01.659+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T16:33:01.659+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T16:33:01.664+0530 DEBUG Completed 200 OK
+2023-02-28T16:33:05.047+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:33:05.048+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-02-28T16:33:05.048+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-02-28T16:33:05.049+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-02-28T16:33:05.049+0530 DEBUG Writing [[com.capeelectric.model.Country@92b94908, com.capeelectric.model.Country@bc8ef501, com.capeelectric. (truncated)...]
+2023-02-28T16:33:05.053+0530 DEBUG Completed 200 OK
+2023-03-01T09:26:55.493+0530 DEBUG 202 mappings in 'requestMappingHandlerMapping'
+2023-03-01T09:26:55.578+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-01T09:26:55.669+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-01T09:26:55.737+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-01T09:27:03.970+0530 INFO Initializing Servlet 'dispatcherServlet'
+2023-03-01T09:27:03.970+0530 DEBUG Detected StandardServletMultipartResolver
+2023-03-01T09:27:03.971+0530 DEBUG Detected AcceptHeaderLocaleResolver
+2023-03-01T09:27:03.971+0530 DEBUG Detected FixedThemeResolver
+2023-03-01T09:27:03.976+0530 DEBUG Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@51e1c488
+2023-03-01T09:27:03.977+0530 DEBUG Detected org.springframework.web.servlet.support.SessionFlashMapManager@2da67725
+2023-03-01T09:27:03.978+0530 DEBUG enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-03-01T09:27:03.978+0530 INFO Completed initialization in 8 ms
+2023-03-01T09:27:04.007+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:27:04.036+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:27:04.038+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:27:04.202+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:27:04.203+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:27:04.317+0530 DEBUG Completed 200 OK
+2023-03-01T09:27:22.300+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:22.304+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/UAE", parameters={}
+2023-03-01T09:27:22.306+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:22.473+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:27:22.474+0530 DEBUG Writing [[com.capeelectric.model.State@91effd24]]
+2023-03-01T09:27:22.478+0530 DEBUG Completed 200 OK
+2023-03-01T09:27:25.321+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:25.326+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/USA", parameters={}
+2023-03-01T09:27:25.329+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:25.338+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:27:25.339+0530 DEBUG Writing [[com.capeelectric.model.State@91efe1e5]]
+2023-03-01T09:27:25.342+0530 DEBUG Completed 200 OK
+2023-03-01T09:27:42.881+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:42.884+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/NPL", parameters={}
+2023-03-01T09:27:42.885+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:42.892+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:27:42.893+0530 DEBUG Writing [[com.capeelectric.model.State@91f02957]]
+2023-03-01T09:27:42.897+0530 DEBUG Completed 200 OK
+2023-03-01T09:27:55.222+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:55.225+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-03-01T09:27:55.227+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T09:27:55.240+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:27:55.241+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-03-01T09:27:55.250+0530 DEBUG Completed 200 OK
+2023-03-01T09:31:13.651+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:31:13.654+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:31:13.655+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:31:13.658+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:31:13.659+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:31:13.663+0530 DEBUG Completed 200 OK
+2023-03-01T09:32:10.066+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:10.068+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:32:10.068+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:10.069+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:32:10.070+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:32:10.073+0530 DEBUG Completed 200 OK
+2023-03-01T09:32:16.592+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:16.599+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:32:16.600+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:16.603+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:32:16.604+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:32:16.606+0530 DEBUG Completed 200 OK
+2023-03-01T09:32:24.030+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:24.032+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:32:24.033+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:24.034+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:32:24.034+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:32:24.036+0530 DEBUG Completed 200 OK
+2023-03-01T09:32:34.874+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:34.876+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:32:34.877+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:34.878+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:32:34.879+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:32:34.880+0530 DEBUG Completed 200 OK
+2023-03-01T09:32:49.319+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:49.321+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:32:49.322+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:32:49.324+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:32:49.324+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:32:49.330+0530 DEBUG Completed 200 OK
+2023-03-01T09:33:16.062+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:16.063+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:33:16.063+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:16.064+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:33:16.064+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:33:16.066+0530 DEBUG Completed 200 OK
+2023-03-01T09:33:35.667+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:35.669+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:33:35.670+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:35.671+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:33:35.671+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:33:35.675+0530 DEBUG Completed 200 OK
+2023-03-01T09:33:42.962+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:42.964+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:33:42.964+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:42.965+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:33:42.966+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:33:42.968+0530 DEBUG Completed 200 OK
+2023-03-01T09:33:50.461+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:50.464+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T09:33:50.464+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T09:33:50.465+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T09:33:50.465+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T09:33:50.468+0530 DEBUG Completed 200 OK
+2023-03-01T12:26:55.528+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:26:55.563+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-03-01T12:26:55.565+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:26:55.614+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:26:55.615+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-03-01T12:26:55.625+0530 DEBUG Completed 200 OK
+2023-03-01T12:27:35.125+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:27:35.127+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:27:35.127+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:27:35.129+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:27:35.131+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:27:35.134+0530 DEBUG Completed 200 OK
+2023-03-01T12:28:27.289+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:28:27.290+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:28:27.291+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:28:27.292+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:28:27.293+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:28:27.295+0530 DEBUG Completed 200 OK
+2023-03-01T12:33:27.620+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:33:27.623+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:33:27.624+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:33:27.625+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:33:27.626+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:33:27.631+0530 DEBUG Completed 200 OK
+2023-03-01T12:33:54.612+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:33:54.614+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:33:54.615+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:33:54.615+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:33:54.615+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:33:54.617+0530 DEBUG Completed 200 OK
+2023-03-01T12:34:56.031+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:34:56.032+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-03-01T12:34:56.033+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:34:56.035+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:34:56.036+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-03-01T12:34:56.038+0530 DEBUG Completed 200 OK
+2023-03-01T12:36:52.501+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:36:52.503+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:36:52.504+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:36:52.508+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:36:52.508+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:36:52.511+0530 DEBUG Completed 200 OK
+2023-03-01T12:37:59.893+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:37:59.895+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-03-01T12:37:59.895+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:37:59.896+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:37:59.896+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-03-01T12:37:59.899+0530 DEBUG Completed 200 OK
+2023-03-01T12:38:45.867+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:38:45.891+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:38:45.895+0530 DEBUG POST "/api/v2/addRegistration", parameters={}
+2023-03-01T12:38:45.895+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:38:45.971+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.model.Register@e9b4b98]
+2023-03-01T12:38:46.046+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T12:38:46.056+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:38:46.056+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@1920581b]
+2023-03-01T12:38:46.061+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.RegistrationController]
+Method [public org.springframework.http.ResponseEntity<java.lang.Void> com.capeelectric.controller.RegistrationController.addRegistration(com.capeelectric.model.Register) throws com.capeelectric.exception.RegistrationException,javax.mail.MessagingException,java.net.MalformedURLException,java.net.URISyntaxException] with argument values:
+ [0] [type=com.capeelectric.model.Register] [value=com.capeelectric.model.Register@e9b4b98] ]
+2023-03-01T12:38:46.062+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T12:42:44.756+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:42:44.759+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T12:42:44.759+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T12:42:44.760+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:42:44.761+0530 DEBUG Writing [[com.capeelectric.model.Country@36e2abff, com.capeelectric.model.Country@594634b9, com.capeelectric. (truncated)...]
+2023-03-01T12:42:44.763+0530 DEBUG Completed 200 OK
+2023-03-01T12:43:47.708+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:43:47.710+0530 DEBUG GET "/api/v2/fetchStatesByCountryCode/IND", parameters={}
+2023-03-01T12:43:47.711+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchStatesByCountryName(String)
+2023-03-01T12:43:47.713+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:43:47.714+0530 DEBUG Writing [[com.capeelectric.model.State@9a7991e6, com.capeelectric.model.State@4f8bf138, com.capeelectric.mode (truncated)...]
+2023-03-01T12:43:47.716+0530 DEBUG Completed 200 OK
+2023-03-01T12:44:12.620+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:44:12.622+0530 DEBUG POST "/api/v2/addRegistration", parameters={}
+2023-03-01T12:44:12.623+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:44:12.624+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.model.Register@51a0535b]
+2023-03-01T12:44:12.931+0530 DEBUG Failed to complete request: org.springframework.dao.InvalidDataAccessResourceUsageException: could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+2023-03-01T12:44:12.976+0530 DEBUG "ERROR" dispatch for POST "/error", parameters={}
+2023-03-01T12:44:12.983+0530 DEBUG Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-03-01T12:44:13.007+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:44:13.007+0530 DEBUG Writing [{timestamp=Wed Mar 01 12:44:12 IST 2023, status=500, error=Internal Server Error, trace=org.springfr (truncated)...]
+2023-03-01T12:44:13.020+0530 DEBUG Exiting from "ERROR" dispatch, status 500
+2023-03-01T12:46:01.045+0530 DEBUG 202 mappings in 'requestMappingHandlerMapping'
+2023-03-01T12:46:01.104+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-01T12:46:01.153+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-01T12:46:01.161+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-01T12:47:08.065+0530 INFO Initializing Servlet 'dispatcherServlet'
+2023-03-01T12:47:08.068+0530 DEBUG Detected StandardServletMultipartResolver
+2023-03-01T12:47:08.068+0530 DEBUG Detected AcceptHeaderLocaleResolver
+2023-03-01T12:47:08.068+0530 DEBUG Detected FixedThemeResolver
+2023-03-01T12:47:08.071+0530 DEBUG Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@78567a
+2023-03-01T12:47:08.072+0530 DEBUG Detected org.springframework.web.servlet.support.SessionFlashMapManager@1aea2733
+2023-03-01T12:47:08.072+0530 DEBUG enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-03-01T12:47:08.073+0530 INFO Completed initialization in 5 ms
+2023-03-01T12:47:08.074+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:47:08.077+0530 DEBUG POST "/api/v2/addRegistration", parameters={}
+2023-03-01T12:47:08.078+0530 DEBUG Mapped to com.capeelectric.controller.RegistrationController#addRegistration(Register)
+2023-03-01T12:47:08.092+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.model.Register@3cc2d558]
+2023-03-01T12:47:08.290+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T12:47:08.291+0530 DEBUG Nothing to write: null body
+2023-03-01T12:47:08.292+0530 DEBUG Completed 201 CREATED
+2023-03-01T13:39:52.963+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:39:52.966+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T13:39:52.966+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:39:52.993+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T13:39:52.993+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T13:39:53.059+0530 DEBUG Completed 200 OK
+2023-03-01T13:40:07.824+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:40:07.826+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T13:40:07.826+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:40:07.827+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T13:40:07.828+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T13:40:07.829+0530 DEBUG Completed 200 OK
+2023-03-01T13:51:57.258+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:51:57.261+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T13:51:57.261+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T13:51:57.265+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T13:51:57.265+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T13:51:57.267+0530 DEBUG Completed 200 OK
+2023-03-01T14:23:18.255+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:23:18.259+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T14:23:18.260+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:23:18.261+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T14:23:18.262+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T14:23:18.265+0530 DEBUG Completed 200 OK
+2023-03-01T14:34:25.807+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:34:25.809+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T14:34:25.809+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:34:25.810+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T14:34:25.811+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T14:34:25.814+0530 DEBUG Completed 200 OK
+2023-03-01T14:34:36.891+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:34:36.893+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T14:34:36.893+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T14:34:36.895+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T14:34:36.895+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T14:34:36.897+0530 DEBUG Completed 200 OK
+2023-03-01T15:18:38.579+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T15:18:38.581+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T15:18:38.581+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T15:18:38.583+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T15:18:38.584+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T15:18:38.586+0530 DEBUG Completed 200 OK
+2023-03-01T16:24:02.321+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:02.335+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:02.344+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:02.345+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:02.373+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@32c2960c]
+2023-03-01T16:24:02.457+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:02.471+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:02.473+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@194d5af]
+2023-03-01T16:24:02.476+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@32c2960c] ]
+2023-03-01T16:24:02.477+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:03.675+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:03.679+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:03.679+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:03.681+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@37dc89f2]
+2023-03-01T16:24:03.693+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:03.699+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:03.707+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@4994c201]
+2023-03-01T16:24:03.735+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@37dc89f2] ]
+2023-03-01T16:24:03.736+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:04.807+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:04.810+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:04.812+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:04.814+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@5e0c5fa6]
+2023-03-01T16:24:04.819+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:04.820+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:04.820+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@202db079]
+2023-03-01T16:24:04.824+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@5e0c5fa6] ]
+2023-03-01T16:24:04.824+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:05.273+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.275+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:05.275+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.276+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@5fb4efe7]
+2023-03-01T16:24:05.281+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:05.282+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:05.282+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@2114311f]
+2023-03-01T16:24:05.286+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@5fb4efe7] ]
+2023-03-01T16:24:05.286+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:05.488+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.490+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:05.490+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.491+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@75b5c618]
+2023-03-01T16:24:05.495+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:05.496+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:05.496+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@bbfa688]
+2023-03-01T16:24:05.498+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@75b5c618] ]
+2023-03-01T16:24:05.499+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:05.688+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.695+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:05.695+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.696+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@642584c2]
+2023-03-01T16:24:05.736+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:05.738+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:05.738+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@3c2a0f9a]
+2023-03-01T16:24:05.868+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@642584c2] ]
+2023-03-01T16:24:05.871+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:05.889+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.891+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:05.892+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:05.894+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@3af1ff2]
+2023-03-01T16:24:05.899+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:05.900+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:05.900+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@7dd3057a]
+2023-03-01T16:24:05.904+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@3af1ff2] ]
+2023-03-01T16:24:05.904+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:06.081+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.084+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:06.084+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.088+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@76e0a96b]
+2023-03-01T16:24:06.105+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:06.107+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:06.107+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@342dd5eb]
+2023-03-01T16:24:06.115+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@76e0a96b] ]
+2023-03-01T16:24:06.115+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:06.280+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.284+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:06.284+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.286+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@7dd9df36]
+2023-03-01T16:24:06.314+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:06.315+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:06.315+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@3dbd2d6]
+2023-03-01T16:24:06.319+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@7dd9df36] ]
+2023-03-01T16:24:06.322+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:06.461+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.464+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:06.464+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.465+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@2f02eb52]
+2023-03-01T16:24:06.506+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:06.506+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:06.509+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@51527d1e]
+2023-03-01T16:24:06.511+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@2f02eb52] ]
+2023-03-01T16:24:06.511+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:06.671+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.672+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:06.672+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:06.673+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@18fc02f7]
+2023-03-01T16:24:06.677+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:06.677+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:06.678+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@36b913a]
+2023-03-01T16:24:06.680+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@18fc02f7] ]
+2023-03-01T16:24:06.681+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:07.388+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:07.391+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:07.392+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:07.393+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@533e0943]
+2023-03-01T16:24:07.399+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:07.399+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:07.400+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@1c47f8b5]
+2023-03-01T16:24:07.402+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@533e0943] ]
+2023-03-01T16:24:07.403+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:07.592+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:07.594+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:24:07.595+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:24:07.596+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@550a622e]
+2023-03-01T16:24:07.600+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleRegistrationException(RegistrationException)
+2023-03-01T16:24:07.601+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:07.602+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@75974213]
+2023-03-01T16:24:07.602+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@550a622e] ]
+2023-03-01T16:24:07.604+0530 DEBUG Completed 406 NOT_ACCEPTABLE
+2023-03-01T16:24:09.447+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T16:24:09.450+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-01T16:24:09.450+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-01T16:24:09.455+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:24:09.456+0530 DEBUG Writing [[com.capeelectric.model.Country@948ead44, com.capeelectric.model.Country@a0d2f034, com.capeelectric. (truncated)...]
+2023-03-01T16:24:09.471+0530 DEBUG Completed 200 OK
+2023-03-01T16:33:22.143+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:33:22.145+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:33:22.146+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:33:22.150+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@5817af07]
+2023-03-01T16:33:22.188+0530 DEBUG Using @ExceptionHandler com.capeelectric.exception.GlobalExceptionHandler#handleAuthenticationException(AuthenticationException)
+2023-03-01T16:33:22.190+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:33:22.190+0530 DEBUG Writing [com.capeelectric.util.ErrorMessage@5919335]
+2023-03-01T16:33:22.193+0530 WARN Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.capeelectric.controller.LoginController]
+Method [public com.capeelectric.response.AuthenticationResponseRegister com.capeelectric.controller.LoginController.createAuthenticationToken(com.capeelectric.request.RefreshTokenRequest) throws java.lang.Exception,com.capeelectric.exception.AuthenticationException,com.capeelectric.exception.RegistrationException] with argument values:
+ [0] [type=com.capeelectric.request.RefreshTokenRequest] [value=com.capeelectric.request.RefreshTokenRequest@5817af07] ]
+2023-03-01T16:33:22.193+0530 DEBUG Completed 404 NOT_FOUND
+2023-03-01T16:57:50.071+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:57:50.092+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:57:50.094+0530 DEBUG POST "/api/v2/authenticate", parameters={}
+2023-03-01T16:57:50.094+0530 DEBUG Mapped to com.capeelectric.controller.LoginController#createAuthenticationToken(RefreshTokenRequest)
+2023-03-01T16:57:50.098+0530 DEBUG Read "application/json;charset=UTF-8" to [com.capeelectric.request.RefreshTokenRequest@648c4a64]
+2023-03-01T16:57:50.344+0530 DEBUG Failed to complete request: org.springframework.security.authentication.BadCredentialsException: INVALID_CREDENTIALS
+2023-03-01T16:57:50.348+0530 DEBUG "ERROR" dispatch for POST "/error", parameters={}
+2023-03-01T16:57:50.350+0530 DEBUG Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-03-01T16:57:50.364+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-01T16:57:50.365+0530 DEBUG Writing [{timestamp=Wed Mar 01 16:57:50 IST 2023, status=401, error=Unauthorized, trace=org.springframework.s (truncated)...]
+2023-03-01T16:57:50.375+0530 DEBUG Exiting from "ERROR" dispatch, status 401
+2023-03-06T09:35:57.616+0530 DEBUG 202 mappings in 'requestMappingHandlerMapping'
+2023-03-06T09:35:57.706+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T09:35:57.776+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T09:35:57.827+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T09:37:04.955+0530 INFO Initializing Servlet 'dispatcherServlet'
+2023-03-06T09:37:04.955+0530 DEBUG Detected StandardServletMultipartResolver
+2023-03-06T09:37:04.955+0530 DEBUG Detected AcceptHeaderLocaleResolver
+2023-03-06T09:37:04.955+0530 DEBUG Detected FixedThemeResolver
+2023-03-06T09:37:04.958+0530 DEBUG Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7c3eaf92
+2023-03-06T09:37:04.958+0530 DEBUG Detected org.springframework.web.servlet.support.SessionFlashMapManager@25999639
+2023-03-06T09:37:04.959+0530 DEBUG enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-03-06T09:37:04.959+0530 INFO Completed initialization in 4 ms
+2023-03-06T09:37:04.982+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T09:37:05.011+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T09:37:05.012+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T09:37:05.143+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T09:37:05.144+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T09:37:05.235+0530 DEBUG Completed 200 OK
+2023-03-06T09:44:51.928+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T09:44:51.932+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T09:44:51.933+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T09:44:51.940+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T09:44:51.941+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T09:44:51.949+0530 DEBUG Completed 200 OK
+2023-03-06T10:11:38.514+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:38.516+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T10:11:38.518+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:38.520+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T10:11:38.520+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T10:11:38.524+0530 DEBUG Completed 200 OK
+2023-03-06T10:11:39.193+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:39.195+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T10:11:39.195+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:39.196+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T10:11:39.196+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T10:11:39.200+0530 DEBUG Completed 200 OK
+2023-03-06T10:11:39.677+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:39.680+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T10:11:39.681+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T10:11:39.683+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T10:11:39.684+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T10:11:39.687+0530 DEBUG Completed 200 OK
+2023-03-06T11:05:02.910+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:05:02.913+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:05:02.914+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:05:02.930+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:05:02.931+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:05:02.934+0530 DEBUG Completed 200 OK
+2023-03-06T11:30:06.859+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:30:06.864+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:30:06.865+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:30:06.868+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:30:06.869+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:30:06.872+0530 DEBUG Completed 200 OK
+2023-03-06T11:31:00.022+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:00.025+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:31:00.026+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:00.027+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:31:00.028+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:31:00.031+0530 DEBUG Completed 200 OK
+2023-03-06T11:31:18.114+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:18.116+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:31:18.117+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:18.118+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:31:18.119+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:31:18.121+0530 DEBUG Completed 200 OK
+2023-03-06T11:31:55.203+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:55.205+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:31:55.205+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:31:55.206+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:31:55.207+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:31:55.236+0530 DEBUG Completed 200 OK
+2023-03-06T11:32:00.792+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:00.794+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:32:00.795+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:00.796+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:32:00.797+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:32:00.799+0530 DEBUG Completed 200 OK
+2023-03-06T11:32:04.412+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:04.415+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:32:04.416+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:04.417+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:32:04.417+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:32:04.419+0530 DEBUG Completed 200 OK
+2023-03-06T11:32:12.462+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:12.464+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:32:12.465+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:32:12.466+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:32:12.468+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:32:12.470+0530 DEBUG Completed 200 OK
+2023-03-06T11:58:38.619+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:58:38.620+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T11:58:38.620+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T11:58:38.621+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T11:58:38.622+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T11:58:38.624+0530 DEBUG Completed 200 OK
+2023-03-06T12:01:16.872+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:01:16.873+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:01:16.873+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:01:16.874+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:01:16.874+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:01:16.877+0530 DEBUG Completed 200 OK
+2023-03-06T12:04:06.466+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:04:06.469+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:04:06.470+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:04:06.471+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:04:06.471+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:04:06.473+0530 DEBUG Completed 200 OK
+2023-03-06T12:04:15.804+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:04:15.806+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:04:15.806+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:04:15.807+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:04:15.808+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:04:15.809+0530 DEBUG Completed 200 OK
+2023-03-06T12:15:20.279+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:15:20.281+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:15:20.281+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:15:20.282+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:15:20.283+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:15:20.287+0530 DEBUG Completed 200 OK
+2023-03-06T12:30:39.683+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:30:39.685+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:30:39.686+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:30:39.687+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:30:39.688+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:30:39.691+0530 DEBUG Completed 200 OK
+2023-03-06T12:30:44.558+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:30:44.561+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:30:44.561+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:30:44.562+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:30:44.563+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:30:44.566+0530 DEBUG Completed 200 OK
+2023-03-06T12:32:01.920+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:32:01.922+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:32:01.923+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:32:01.924+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:32:01.924+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:32:01.926+0530 DEBUG Completed 200 OK
+2023-03-06T12:32:20.012+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:32:20.014+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:32:20.014+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:32:20.015+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:32:20.016+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:32:20.017+0530 DEBUG Completed 200 OK
+2023-03-06T12:33:19.272+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:33:19.274+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:33:19.275+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:33:19.276+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:33:19.277+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:33:19.278+0530 DEBUG Completed 200 OK
+2023-03-06T12:39:30.417+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:30.419+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:39:30.419+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:30.420+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:39:30.420+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:39:30.421+0530 DEBUG Completed 200 OK
+2023-03-06T12:39:36.497+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:36.499+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:39:36.499+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:36.500+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:39:36.501+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:39:36.503+0530 DEBUG Completed 200 OK
+2023-03-06T12:39:58.563+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:58.564+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:39:58.565+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:58.566+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:39:58.566+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:39:58.568+0530 DEBUG Completed 200 OK
+2023-03-06T12:39:59.006+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:59.008+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:39:59.008+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:39:59.009+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:39:59.010+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:39:59.011+0530 DEBUG Completed 200 OK
+2023-03-06T12:40:20.617+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:40:20.618+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:40:20.619+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:40:20.619+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:40:20.619+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:40:20.620+0530 DEBUG Completed 200 OK
+2023-03-06T12:41:06.766+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:06.768+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:41:06.768+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:06.769+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:41:06.770+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:41:06.772+0530 DEBUG Completed 200 OK
+2023-03-06T12:41:16.643+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:16.645+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:41:16.645+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:16.646+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:41:16.646+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:41:16.648+0530 DEBUG Completed 200 OK
+2023-03-06T12:41:28.851+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:28.852+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:41:28.852+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:28.853+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:41:28.854+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:41:28.855+0530 DEBUG Completed 200 OK
+2023-03-06T12:41:41.764+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:41.765+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:41:41.766+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:41:41.767+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:41:41.767+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:41:41.769+0530 DEBUG Completed 200 OK
+2023-03-06T12:42:50.260+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:42:50.262+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:42:50.262+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:42:50.265+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:42:50.265+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:42:50.268+0530 DEBUG Completed 200 OK
+2023-03-06T12:42:56.175+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:42:56.177+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:42:56.177+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:42:56.177+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:42:56.177+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:42:56.179+0530 DEBUG Completed 200 OK
+2023-03-06T12:45:11.581+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:45:11.582+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:45:11.583+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:45:11.583+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:45:11.584+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:45:11.585+0530 DEBUG Completed 200 OK
+2023-03-06T12:45:15.721+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:45:15.722+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:45:15.722+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:45:15.723+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:45:15.723+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:45:15.724+0530 DEBUG Completed 200 OK
+2023-03-06T12:46:50.896+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:46:50.899+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:46:50.901+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:46:50.903+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:46:50.904+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:46:50.910+0530 DEBUG Completed 200 OK
+2023-03-06T12:46:56.053+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:46:56.054+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:46:56.054+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:46:56.055+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:46:56.055+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:46:56.057+0530 DEBUG Completed 200 OK
+2023-03-06T12:47:29.138+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:47:29.139+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:47:29.139+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:47:29.140+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:47:29.140+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:47:29.142+0530 DEBUG Completed 200 OK
+2023-03-06T12:47:40.002+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:47:40.004+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:47:40.005+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:47:40.006+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:47:40.006+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:47:40.008+0530 DEBUG Completed 200 OK
+2023-03-06T12:48:58.893+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:48:58.894+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:48:58.894+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:48:58.895+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:48:58.895+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:48:58.896+0530 DEBUG Completed 200 OK
+2023-03-06T12:49:06.089+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:49:06.090+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:49:06.091+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:49:06.091+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:49:06.092+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:49:06.093+0530 DEBUG Completed 200 OK
+2023-03-06T12:51:10.472+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:51:10.473+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:51:10.473+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:51:10.474+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:51:10.475+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:51:10.477+0530 DEBUG Completed 200 OK
+2023-03-06T12:51:33.938+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:51:33.940+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:51:33.940+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:51:33.941+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:51:33.941+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:51:33.943+0530 DEBUG Completed 200 OK
+2023-03-06T12:55:33.515+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:55:33.516+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:55:33.516+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:55:33.518+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:55:33.519+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:55:33.521+0530 DEBUG Completed 200 OK
+2023-03-06T12:55:52.986+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:55:52.987+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:55:52.987+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:55:52.987+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:55:52.988+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:55:52.989+0530 DEBUG Completed 200 OK
+2023-03-06T12:56:07.761+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:56:07.762+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:56:07.763+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:56:07.764+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:56:07.764+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:56:07.766+0530 DEBUG Completed 200 OK
+2023-03-06T12:59:17.180+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:59:17.181+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T12:59:17.181+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T12:59:17.182+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T12:59:17.182+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T12:59:17.183+0530 DEBUG Completed 200 OK
+2023-03-06T14:06:26.422+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:06:26.425+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:06:26.425+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:06:26.426+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:06:26.426+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:06:26.428+0530 DEBUG Completed 200 OK
+2023-03-06T14:08:48.085+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:08:48.089+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:08:48.089+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:08:48.092+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:08:48.092+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:08:48.096+0530 DEBUG Completed 200 OK
+2023-03-06T14:08:56.946+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:08:56.948+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:08:56.949+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:08:56.950+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:08:56.951+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:08:56.953+0530 DEBUG Completed 200 OK
+2023-03-06T14:10:12.913+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:10:12.915+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:10:12.915+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:10:12.916+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:10:12.916+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:10:12.919+0530 DEBUG Completed 200 OK
+2023-03-06T14:10:25.019+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:10:25.020+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:10:25.023+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:10:25.024+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:10:25.024+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:10:25.026+0530 DEBUG Completed 200 OK
+2023-03-06T14:13:53.381+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:13:53.383+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:13:53.383+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:13:53.385+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:13:53.385+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:13:53.385+0530 DEBUG Completed 200 OK
+2023-03-06T14:14:30.898+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:14:30.899+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:14:30.899+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:14:30.900+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:14:30.900+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:14:30.902+0530 DEBUG Completed 200 OK
+2023-03-06T14:16:36.484+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:16:36.486+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:16:36.486+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:16:36.487+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:16:36.487+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:16:36.488+0530 DEBUG Completed 200 OK
+2023-03-06T14:16:53.673+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:16:53.674+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:16:53.675+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:16:53.675+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:16:53.675+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:16:53.677+0530 DEBUG Completed 200 OK
+2023-03-06T14:18:53.729+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:18:53.731+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:18:53.731+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:18:53.732+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:18:53.732+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:18:53.733+0530 DEBUG Completed 200 OK
+2023-03-06T14:18:59.948+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:18:59.949+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:18:59.949+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:18:59.950+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:18:59.951+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:18:59.952+0530 DEBUG Completed 200 OK
+2023-03-06T14:20:07.781+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:20:07.783+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:20:07.783+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:20:07.784+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:20:07.785+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:20:07.786+0530 DEBUG Completed 200 OK
+2023-03-06T14:20:34.934+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:20:34.936+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:20:34.936+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:20:34.937+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:20:34.937+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:20:34.939+0530 DEBUG Completed 200 OK
+2023-03-06T14:22:54.242+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:22:54.243+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:22:54.243+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:22:54.244+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:22:54.244+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:22:54.245+0530 DEBUG Completed 200 OK
+2023-03-06T14:23:02.079+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:02.080+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:23:02.081+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:02.081+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:23:02.082+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:23:02.083+0530 DEBUG Completed 200 OK
+2023-03-06T14:23:26.352+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:26.356+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:23:26.356+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:26.358+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:23:26.358+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:23:26.359+0530 DEBUG Completed 200 OK
+2023-03-06T14:23:40.098+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:40.099+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T14:23:40.100+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T14:23:40.101+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T14:23:40.101+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T14:23:40.103+0530 DEBUG Completed 200 OK
+2023-03-06T17:17:44.156+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T17:17:44.174+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T17:17:44.175+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T17:17:44.192+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T17:17:44.192+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T17:17:44.198+0530 DEBUG Completed 200 OK
+2023-03-06T17:40:44.763+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T17:40:44.765+0530 DEBUG GET "/api/v2/fetchCountries", parameters={}
+2023-03-06T17:40:44.766+0530 DEBUG Mapped to com.capeelectric.controller.CountryStateListController#fetchCountries()
+2023-03-06T17:40:44.767+0530 DEBUG Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json, application/cbor]
+2023-03-06T17:40:44.767+0530 DEBUG Writing [[com.capeelectric.model.Country@771d37e7, com.capeelectric.model.Country@809dd273, com.capeelectric. (truncated)...]
+2023-03-06T17:40:44.769+0530 DEBUG Completed 200 OK
+2023-03-06T18:30:35.491+0530 DEBUG 191 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:30:35.549+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:30:35.601+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:30:35.617+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:30:42.593+0530 DEBUG 189 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:30:42.651+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:30:42.686+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:30:42.697+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:31:56.301+0530 DEBUG 189 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:31:56.350+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:31:56.381+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:31:56.392+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:32:14.129+0530 DEBUG 185 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:32:14.179+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:32:14.215+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:32:14.228+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:32:33.722+0530 DEBUG 177 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:32:33.782+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:32:33.828+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:32:33.844+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:32:44.987+0530 DEBUG 173 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:32:45.010+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:32:45.027+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:32:45.032+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:33:00.029+0530 DEBUG 165 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:33:00.049+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:33:00.064+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:33:00.069+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:33:15.222+0530 DEBUG 161 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:33:15.240+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:33:15.252+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:33:15.257+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:33:52.684+0530 DEBUG 157 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:33:52.702+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:33:52.715+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:33:52.719+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:34:01.567+0530 DEBUG 149 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:34:01.601+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:34:01.626+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:34:01.635+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:34:09.042+0530 DEBUG 144 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:34:09.065+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:34:09.081+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:34:09.086+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:34:30.049+0530 DEBUG 140 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:34:30.069+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:34:30.085+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:34:30.092+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:34:48.999+0530 DEBUG 137 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:34:49.015+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:34:49.027+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:34:49.030+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:34:59.851+0530 DEBUG 134 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:34:59.882+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:34:59.904+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:34:59.911+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:35:30.614+0530 DEBUG 129 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:35:30.633+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:35:30.646+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:35:30.652+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-03-06T18:35:42.382+0530 DEBUG 125 mappings in 'requestMappingHandlerMapping'
+2023-03-06T18:35:42.404+0530 DEBUG Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-03-06T18:35:42.421+0530 DEBUG ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-03-06T18:35:42.427+0530 DEBUG ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
